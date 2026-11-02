@@ -4725,7 +4725,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
-		(at 27.94 54.61 0)
+		(at 33.02 54.61 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4736,7 +4736,7 @@
 		(dnp no)
 		(uuid "37d2cbbd-c9db-4d89-bf42-973044560402")
 		(property "Reference" "J3"
-			(at 19.558 46.228 0)
+			(at 24.638 46.228 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4746,7 +4746,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06"
-			(at 19.558 48.768 0)
+			(at 24.638 48.768 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4756,7 +4756,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 54.61 0)
+			(at 33.02 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4767,7 +4767,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 54.61 0)
+			(at 33.02 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4778,7 +4778,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 27.94 54.61 0)
+			(at 33.02 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5552,7 +5552,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 33.02 49.53 0)
+		(at 38.1 49.53 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5563,7 +5563,7 @@
 		(fields_autoplaced yes)
 		(uuid "8895e0b4-ea1f-4908-9a86-0ee0c6f697c3")
 		(property "Reference" "#PWR013"
-			(at 33.02 53.34 0)
+			(at 38.1 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5574,7 +5574,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 33.02 44.45 0)
+			(at 38.1 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5584,7 +5584,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Diodes_UDFN3810-9_TYPE_B"
-			(at 33.02 49.53 0)
+			(at 38.1 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5595,7 +5595,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 49.53 0)
+			(at 38.1 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5606,7 +5606,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 33.02 49.53 0)
+			(at 38.1 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6430,7 +6430,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 33.02 62.23 0)
+		(at 38.1 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6441,7 +6441,7 @@
 		(fields_autoplaced yes)
 		(uuid "eadf3204-11ee-432c-aa4a-1aacef956d44")
 		(property "Reference" "#PWR014"
-			(at 33.02 68.58 0)
+			(at 38.1 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6452,7 +6452,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 33.02 67.31 0)
+			(at 38.1 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6462,7 +6462,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Aesthetic:GNSS_Flex_Template"
-			(at 33.02 62.23 0)
+			(at 38.1 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6473,7 +6473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 62.23 0)
+			(at 38.1 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6484,7 +6484,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 33.02 62.23 0)
+			(at 38.1 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
