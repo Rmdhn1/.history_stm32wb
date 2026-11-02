@@ -4831,7 +4831,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "2n7H"
 			(at 53.34 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
