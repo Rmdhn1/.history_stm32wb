@@ -3224,7 +3224,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 129.54 27.94 180)
+		(at 129.54 27.94 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3234,7 +3234,7 @@
 		(dnp no)
 		(uuid "97ba0bad-3951-46cd-a01f-cdac963f0545")
 		(property "Reference" "C7"
-			(at 134.112 25.4 0)
+			(at 127 23.368 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3244,7 +3244,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 135.89 27.94 0)
+			(at 129.54 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3254,7 +3254,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 128.5748 24.13 0)
+			(at 125.73 28.9052 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
