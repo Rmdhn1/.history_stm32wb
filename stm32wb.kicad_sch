@@ -3265,7 +3265,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 50.8) (xy 78.74 50.8)
+			(xy 95.25 53.34) (xy 78.74 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3282,6 +3282,16 @@
 			(type default)
 		)
 		(uuid "60bb4c0a-e5e4-4afd-b151-e9e0a111a61b")
+	)
+	(wire
+		(pts
+			(xy 100.33 50.8) (xy 101.6 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "687125f8-8717-42dc-a57c-ca41adca99d0")
 	)
 	(wire
 		(pts
@@ -3375,7 +3385,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 60.96) (xy 95.25 50.8)
+			(xy 95.25 60.96) (xy 95.25 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3635,7 +3645,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 50.8) (xy 78.74 63.5)
+			(xy 78.74 53.34) (xy 78.74 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3704,7 +3714,7 @@
 		(uuid "30911f14-fd8f-4885-8ae4-6e87bc178f22")
 	)
 	(label "SWD_NRST"
-		(at 101.6 50.8 180)
+		(at 100.33 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
