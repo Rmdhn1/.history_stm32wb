@@ -4731,6 +4731,12 @@
 		(uuid "4b234215-2049-4564-879c-3dcf220ccebf")
 	)
 	(junction
+		(at 87.63 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62924204-21f7-4680-86b5-a6051a7ef062")
+	)
+	(junction
 		(at 58.42 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4741,6 +4747,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f798e00-e73b-4ff2-9ca2-d7f3ad25a8c3")
+	)
+	(junction
+		(at 77.47 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75c506aa-c2ce-4091-b84f-30019b180d87")
 	)
 	(junction
 		(at 73.66 73.66)
@@ -5154,6 +5166,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 127) (xy 88.9 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "562dbc10-03b8-4537-b92a-f61a239e48a2")
+	)
+	(wire
+		(pts
 			(xy 132.08 43.18) (xy 132.08 34.29)
 		)
 		(stroke
@@ -5191,6 +5213,16 @@
 			(type default)
 		)
 		(uuid "5e94d8f8-b0e1-441c-95b2-85f07d51801d")
+	)
+	(wire
+		(pts
+			(xy 77.47 127) (xy 87.63 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ed8a7f2-e09d-481a-88b7-3d8be98ada9f")
 	)
 	(wire
 		(pts
@@ -5834,7 +5866,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 127) (xy 88.9 127)
+			(xy 74.93 127) (xy 77.47 127)
 		)
 		(stroke
 			(width 0)
@@ -7452,6 +7484,88 @@
 			(project "stm32wb"
 				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 87.63 130.81 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4755a2d7-381c-4a13-9b85-9e88de788d58")
+		(property "Reference" "R4"
+			(at 90.17 129.5399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 90.17 132.0799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Resistor:R_0603_1608Metric"
+			(at 85.852 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 87.63 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "92bb29e3-1ed7-4c97-bbf8-f0042c129d8e")
+		)
+		(pin "2"
+			(uuid "625f5dfd-dcc1-46b6-b5c1-cfac3976b792")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10487,6 +10601,88 @@
 			(project "stm32wb"
 				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 77.47 130.81 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3c0f5c0-4d7b-4443-956c-5d58783b3be3")
+		(property "Reference" "C17"
+			(at 81.28 129.5399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 81.28 132.0799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
+			(at 78.4352 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 77.47 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ad9babf8-d715-4d92-917b-993b06c68c0b")
+		)
+		(pin "2"
+			(uuid "85e30295-2814-4e01-89bb-f7a5b185308b")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "C17")
 					(unit 1)
 				)
 			)
