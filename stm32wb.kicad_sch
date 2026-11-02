@@ -1976,6 +1976,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 86.36) (xy 86.36 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26e86d1f-4e17-406d-97c4-e3161ac9d37f")
+	)
+	(wire
+		(pts
 			(xy 133.35 31.75) (xy 129.54 31.75)
 		)
 		(stroke
@@ -1993,6 +2003,16 @@
 			(type default)
 		)
 		(uuid "38d9c8c5-1d31-498a-bb48-951af34a6801")
+	)
+	(wire
+		(pts
+			(xy 80.01 86.36) (xy 80.01 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a385f1d-7991-41e8-954e-100b5b6bc3eb")
 	)
 	(wire
 		(pts
@@ -2093,6 +2113,16 @@
 			(type default)
 		)
 		(uuid "714062eb-83c1-4b82-9546-7eb5088376b2")
+	)
+	(wire
+		(pts
+			(xy 85.09 86.36) (xy 86.36 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71ae834e-b295-4cf7-86da-3387dffc2945")
 	)
 	(wire
 		(pts
@@ -2216,6 +2246,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 88.9) (xy 101.6 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be595f95-0672-41aa-b864-d316473c3cca")
+	)
+	(wire
+		(pts
 			(xy 127 39.37) (xy 134.62 39.37)
 		)
 		(stroke
@@ -2283,6 +2323,16 @@
 			(type default)
 		)
 		(uuid "dd307363-31ac-48a9-b497-2e169efacc13")
+	)
+	(wire
+		(pts
+			(xy 80.01 91.44) (xy 101.6 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec6e5ac9-2535-45f0-99dc-fe9158caa8ae")
 	)
 	(wire
 		(pts
@@ -2463,7 +2513,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Clock:Crystal")
-		(at 82.55 88.9 0)
+		(at 82.55 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2474,7 +2524,7 @@
 		(fields_autoplaced yes)
 		(uuid "1218975b-e3e8-4cbb-b25a-2184013a49ef")
 		(property "Reference" "Y1"
-			(at 82.55 82.55 0)
+			(at 82.55 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2484,7 +2534,7 @@
 			)
 		)
 		(property "Value" "Crystal"
-			(at 82.55 85.09 0)
+			(at 82.55 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2494,17 +2544,6 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Clock:Crystal-SMD-5x3.2mm"
-			(at 82.55 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
 			(at 82.55 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2515,8 +2554,19 @@
 				)
 			)
 		)
+		(property "Datasheet" ""
+			(at 82.55 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" "Crystal"
-			(at 82.55 101.6 0)
+			(at 82.55 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2527,7 +2577,7 @@
 			)
 		)
 		(property "PROD_ID" "XTAL-"
-			(at 82.55 99.06 0)
+			(at 82.55 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
