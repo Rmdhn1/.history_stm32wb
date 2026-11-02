@@ -4591,7 +4591,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 76.2) (xy 222.25 76.2)
+			(xy 220.98 76.2) (xy 222.25 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4888,6 +4888,16 @@
 			(type default)
 		)
 		(uuid "6d21f3e5-c5b8-455b-b443-5fef56af2d9a")
+	)
+	(wire
+		(pts
+			(xy 223.52 76.2) (xy 222.25 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7062cbd2-71fb-438f-83f1-fc12894c0454")
 	)
 	(wire
 		(pts
@@ -5368,6 +5378,26 @@
 			(type default)
 		)
 		(uuid "f4cc4485-9e84-4510-b4bc-f9ef7dcc1453")
+	)
+	(wire
+		(pts
+			(xy 220.98 68.58) (xy 219.71 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f812ab14-544b-41dd-a61c-051ece93ac96")
+	)
+	(wire
+		(pts
+			(xy 223.52 68.58) (xy 222.25 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fadb109a-e84d-4697-bcb6-794fb332912e")
 	)
 	(wire
 		(pts
@@ -7301,7 +7331,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 222.25 72.39 0)
+		(at 223.52 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7312,7 +7342,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ebf949a-8244-49ac-9ed8-bced0eacef0a")
 		(property "Reference" "R1"
-			(at 224.79 71.1199 0)
+			(at 226.06 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7323,7 +7353,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 224.79 73.6599 0)
+			(at 226.06 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7334,7 +7364,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Resistor:R_0603_1608Metric"
-			(at 220.472 72.39 90)
+			(at 221.742 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7345,7 +7375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 72.39 0)
+			(at 223.52 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7356,7 +7386,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 222.25 72.39 0)
+			(at 223.52 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8349,7 +8379,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 219.71 72.39 0)
+		(at 220.98 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8359,7 +8389,7 @@
 		(dnp no)
 		(uuid "c3de46b0-0ac8-4908-8a05-b550471ab105")
 		(property "Reference" "R2"
-			(at 217.17 71.1199 0)
+			(at 219.202 71.882 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8370,7 +8400,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 217.17 73.6599 0)
+			(at 219.202 74.422 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8381,7 +8411,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.932 72.39 90)
+			(at 219.202 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8392,7 +8422,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.71 72.39 0)
+			(at 220.98 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8403,7 +8433,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 219.71 72.39 0)
+			(at 220.98 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
