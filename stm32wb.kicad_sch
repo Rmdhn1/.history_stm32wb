@@ -1778,6 +1778,26 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 31.75) (xy 129.54 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33ef348f-a0e8-4f55-a8a8-6a2c2afbf793")
+	)
+	(wire
+		(pts
+			(xy 133.35 24.13) (xy 133.35 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38d9c8c5-1d31-498a-bb48-951af34a6801")
+	)
+	(wire
+		(pts
 			(xy 21.59 41.91) (xy 33.02 41.91)
 		)
 		(stroke
@@ -2048,7 +2068,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 24.13) (xy 129.54 24.13)
+			(xy 120.65 24.13) (xy 125.73 24.13)
 		)
 		(stroke
 			(width 0)
@@ -3224,7 +3244,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 129.54 27.94 270)
+		(at 129.54 24.13 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3234,7 +3254,7 @@
 		(dnp no)
 		(uuid "97ba0bad-3951-46cd-a01f-cdac963f0545")
 		(property "Reference" "C7"
-			(at 127 23.368 0)
+			(at 126.492 22.352 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3244,7 +3264,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 129.54 21.59 0)
+			(at 124.714 19.812 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3254,7 +3274,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 125.73 28.9052 0)
+			(at 125.73 25.0952 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3265,7 +3285,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 27.94 0)
+			(at 129.54 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3276,7 +3296,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 129.54 27.94 0)
+			(at 129.54 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
