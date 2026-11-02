@@ -9318,7 +9318,7 @@
 		(dnp no)
 		(uuid "c26762f1-f410-4419-b027-4e48a3ac0a5d")
 		(property "Reference" "R3"
-			(at 213.36 129.286 0)
+			(at 214.376 128.778 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9328,8 +9328,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5K1"
-			(at 215.9 129.286 0)
+		(property "Value" "220"
+			(at 216.408 133.35 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
