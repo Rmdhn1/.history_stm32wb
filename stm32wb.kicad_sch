@@ -7105,10 +7105,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "70e67802-ec9b-4218-8e91-424a757d2994")
 		(property "Reference" "U2"
-			(at 223.52 73.5898 90)
+			(at 217.678 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7118,7 +7117,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 223.52 76.1298 90)
+			(at 223.266 85.598 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
