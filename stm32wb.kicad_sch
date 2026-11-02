@@ -7036,7 +7036,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5K1"
 			(at 224.79 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8005,7 +8005,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5K1"
 			(at 217.17 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
