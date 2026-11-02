@@ -4731,6 +4731,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 57.15 76.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a096632-0a4c-474f-99e5-85635e9f8ca9")
+		(property "Reference" "C14"
+			(at 61.722 75.692 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 62.992 78.232 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
+			(at 58.1152 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 57.15 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4182a6d4-e59e-43cb-8c16-e786024670da")
+		)
+		(pin "1"
+			(uuid "e5d2f4a3-fc9e-4d86-bc62-bc1a551fd7b6")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 53.34 72.39 90)
 		(unit 1)
@@ -5049,6 +5128,7 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 49.53 76.2 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5058,7 +5138,7 @@
 		(dnp no)
 		(uuid "deb062cc-6f50-4848-abb7-3c5d28eab8ee")
 		(property "Reference" "C13"
-			(at 54.102 75.692 0)
+			(at 44.958 75.692 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5068,7 +5148,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 55.372 78.232 0)
+			(at 43.688 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5078,7 +5158,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 50.4952 80.01 0)
+			(at 48.5648 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
