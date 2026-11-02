@@ -2270,7 +2270,7 @@
 		(uuid "6f798e00-e73b-4ff2-9ca2-d7f3ad25a8c3")
 	)
 	(junction
-		(at 57.15 72.39)
+		(at 57.15 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7937d183-51e2-4431-9583-91ebcbfd2e6f")
@@ -2372,7 +2372,7 @@
 		(uuid "f336e056-ba3a-47ab-a97a-9b4fa4dac41d")
 	)
 	(junction
-		(at 49.53 80.01)
+		(at 49.53 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4b858eb-c1f4-405d-aec7-d19c5dafa94f")
@@ -2397,7 +2397,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 80.01) (xy 57.15 80.01)
+			(xy 49.53 81.28) (xy 57.15 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2704,16 +2704,6 @@
 			(type default)
 		)
 		(uuid "7808dae3-5722-4c51-91d8-25982076a26c")
-	)
-	(wire
-		(pts
-			(xy 57.15 73.66) (xy 57.15 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "792ef9c2-85bf-4973-b642-40bcd707b634")
 	)
 	(wire
 		(pts
@@ -3272,7 +3262,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "173d4486-f5ae-469b-94d3-533c4426c79d")
 		(property "Reference" "#PWR09"
 			(at 86.36 74.93 0)
@@ -3286,7 +3275,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 73.66 0)
+			(at 90.17 70.358 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4774,7 +4763,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 57.15 76.2 0)
+		(at 57.15 77.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4784,7 +4773,7 @@
 		(dnp no)
 		(uuid "9a096632-0a4c-474f-99e5-85635e9f8ca9")
 		(property "Reference" "C14"
-			(at 61.722 75.692 0)
+			(at 61.722 76.962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4794,7 +4783,7 @@
 			)
 		)
 		(property "Value" "0p8"
-			(at 62.992 78.232 0)
+			(at 62.992 79.502 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4804,7 +4793,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 58.1152 80.01 0)
+			(at 58.1152 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4815,7 +4804,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 76.2 0)
+			(at 57.15 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4826,7 +4815,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 57.15 76.2 0)
+			(at 57.15 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4853,7 +4842,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 53.34 72.39 90)
+		(at 53.34 73.66 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4864,7 +4853,7 @@
 		(fields_autoplaced yes)
 		(uuid "b50990e3-5d79-43a4-8252-c70cb453dec9")
 		(property "Reference" "L1"
-			(at 53.34 67.31 90)
+			(at 53.34 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4874,7 +4863,7 @@
 			)
 		)
 		(property "Value" "2n7"
-			(at 53.34 69.85 90)
+			(at 53.34 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4884,7 +4873,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Clock:Crystal-SMD-5x3.2mm"
-			(at 53.34 72.39 0)
+			(at 53.34 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4895,7 +4884,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 72.39 0)
+			(at 53.34 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4906,7 +4895,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 53.34 72.39 0)
+			(at 53.34 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5169,7 +5158,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 49.53 76.2 0)
+		(at 49.53 77.47 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5180,7 +5169,7 @@
 		(dnp no)
 		(uuid "deb062cc-6f50-4848-abb7-3c5d28eab8ee")
 		(property "Reference" "C13"
-			(at 44.958 75.692 0)
+			(at 44.958 76.962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5190,7 +5179,7 @@
 			)
 		)
 		(property "Value" "0p3"
-			(at 43.688 78.232 0)
+			(at 43.688 79.502 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5200,7 +5189,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 48.5648 80.01 0)
+			(at 48.5648 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5211,7 +5200,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 76.2 0)
+			(at 49.53 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5222,7 +5211,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 49.53 76.2 0)
+			(at 49.53 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5249,7 +5238,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 49.53 80.01 0)
+		(at 49.53 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5260,7 +5249,7 @@
 		(fields_autoplaced yes)
 		(uuid "eed87218-d2e0-4670-a00f-111a99ab8472")
 		(property "Reference" "#PWR010"
-			(at 49.53 86.36 0)
+			(at 49.53 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5271,7 +5260,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 49.53 85.09 0)
+			(at 49.53 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5281,7 +5270,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Aesthetic:GNSS_Flex_Template"
-			(at 49.53 80.01 0)
+			(at 49.53 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5292,7 +5281,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 80.01 0)
+			(at 49.53 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5303,7 +5292,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 49.53 80.01 0)
+			(at 49.53 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
