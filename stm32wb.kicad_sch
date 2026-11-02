@@ -1726,6 +1726,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 31.75) (xy 129.54 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bce4de3-b8a9-4847-82e7-4df91ec27ecc")
+	)
+	(wire
+		(pts
 			(xy 124.46 39.37) (xy 124.46 43.18)
 		)
 		(stroke
@@ -2781,7 +2791,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 120.65 26.67 180)
+		(at 143.51 27.94 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2791,7 +2801,7 @@
 		(dnp no)
 		(uuid "666eb17a-ad14-4806-a2a4-9563a3b972fb")
 		(property "Reference" "C8"
-			(at 125.222 24.13 0)
+			(at 148.082 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2801,7 +2811,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 127 26.67 0)
+			(at 149.86 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2811,7 +2821,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 119.6848 22.86 0)
+			(at 142.5448 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2822,7 +2832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 26.67 0)
+			(at 143.51 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2833,7 +2843,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 120.65 26.67 0)
+			(at 143.51 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2938,7 +2948,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 104.14 26.67 180)
+		(at 129.54 27.94 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2948,7 +2958,7 @@
 		(dnp no)
 		(uuid "97ba0bad-3951-46cd-a01f-cdac963f0545")
 		(property "Reference" "C7"
-			(at 108.712 24.13 0)
+			(at 134.112 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2958,7 +2968,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 110.49 26.67 0)
+			(at 135.89 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2968,7 +2978,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 103.1748 22.86 0)
+			(at 128.5748 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2979,7 +2989,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 26.67 0)
+			(at 129.54 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2990,7 +3000,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 104.14 26.67 0)
+			(at 129.54 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
