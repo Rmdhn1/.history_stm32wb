@@ -4551,6 +4551,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 78.74) (xy 147.32 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "039c12c3-378e-4971-9be6-7749bd2bf55b")
+	)
+	(wire
+		(pts
 			(xy 96.52 55.88) (xy 96.52 52.07)
 		)
 		(stroke
@@ -5361,6 +5371,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 81.28) (xy 147.32 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f284aefb-3da4-4185-9c1f-914bd00c9aaa")
+	)
+	(wire
+		(pts
 			(xy 76.2 52.07) (xy 96.52 52.07)
 		)
 		(stroke
@@ -5529,6 +5549,16 @@
 		)
 		(uuid "98225bfa-5e06-4f1f-8701-243dd51af048")
 	)
+	(label "USB_DP"
+		(at 149.86 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9dcf6172-4465-4b68-bd4c-9a5aa855a816")
+	)
 	(label "SWD"
 		(at 40.64 59.69 0)
 		(effects
@@ -5558,6 +5588,16 @@
 			(justify left bottom)
 		)
 		(uuid "d313f296-05c3-475d-88fd-7de5a82c4b67")
+	)
+	(label "USB_DM"
+		(at 149.86 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e92531af-b63f-40e5-b79a-1b4f4e47fb66")
 	)
 	(symbol
 		(lib_id "power:GND")
