@@ -3823,6 +3823,16 @@
 		)
 		(uuid "075735c1-8367-4632-be2d-b38a9a63086c")
 	)
+	(label "SWD_CLK"
+		(at 147.32 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20327eb2-9026-438e-ae27-e2785bbf9313")
+	)
 	(label "LSE OUT"
 		(at 92.71 96.52 0)
 		(effects
