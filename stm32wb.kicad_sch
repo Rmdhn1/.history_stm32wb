@@ -1664,7 +1664,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 35.56 44.45 180)
+		(at 39.37 44.45 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1674,7 +1674,7 @@
 		(dnp no)
 		(uuid "0d802998-22a5-45f5-aab4-ee5e91413008")
 		(property "Reference" "C1"
-			(at 39.116 44.958 90)
+			(at 42.926 44.958 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1684,7 +1684,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 31.75 45.974 90)
+			(at 35.56 45.974 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1694,7 +1694,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 34.5948 40.64 0)
+			(at 38.4048 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1705,7 +1705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 44.45 0)
+			(at 39.37 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1716,7 +1716,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 35.56 44.45 0)
+			(at 39.37 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
