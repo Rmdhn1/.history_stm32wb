@@ -3873,6 +3873,16 @@
 		)
 		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
 	)
+	(label "SWD_DIO"
+		(at 147.32 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "98225bfa-5e06-4f1f-8701-243dd51af048")
+	)
 	(label "SWD"
 		(at 40.64 59.69 0)
 		(effects
