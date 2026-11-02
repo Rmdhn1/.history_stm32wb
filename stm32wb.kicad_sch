@@ -5038,7 +5038,7 @@
 	)
 	(symbol
 		(lib_id "custom lib:DLF162500LT-5028A1")
-		(at 160.02 68.58 0)
+		(at 33.02 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5049,7 +5049,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae5110e7-9e65-4ab1-8ab7-c8ae4e18d722")
 		(property "Reference" "FLT1"
-			(at 160.02 67.31 0)
+			(at 33.02 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5059,7 +5059,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 160.02 68.58 0)
+			(at 33.02 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5069,7 +5069,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 160.02 68.58 0)
+			(at 33.02 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5080,7 +5080,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 68.58 0)
+			(at 33.02 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5091,7 +5091,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 68.58 0)
+			(at 33.02 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
