@@ -1639,7 +1639,7 @@
 		(uuid "bb6ab0e5-bea3-45aa-b6c7-7e7077ff023e")
 	)
 	(junction
-		(at 55.88 41.91)
+		(at 22.86 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ccb380b1-de8d-4be9-9264-91581d4bef45")
@@ -1658,7 +1658,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 41.91) (xy 35.56 41.91)
+			(xy 22.86 41.91) (xy 60.96 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1698,16 +1698,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 41.91) (xy 55.88 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f7ccc17-f786-4025-8bc9-02f8701b7ea2")
-	)
-	(wire
-		(pts
 			(xy 60.96 41.91) (xy 73.66 41.91)
 		)
 		(stroke
@@ -1728,7 +1718,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 39.37) (xy 55.88 41.91)
+			(xy 22.86 40.64) (xy 22.86 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1778,16 +1768,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 41.91) (xy 48.26 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b087ab94-a9f1-432f-84a3-791c92ac8533")
-	)
-	(wire
-		(pts
 			(xy 48.26 49.53) (xy 60.96 49.53)
 		)
 		(stroke
@@ -1815,16 +1795,6 @@
 			(type default)
 		)
 		(uuid "cc5d72fe-7030-4d5e-8d0c-0a9cbfe4ad1d")
-	)
-	(wire
-		(pts
-			(xy 55.88 41.91) (xy 60.96 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d35ea117-95b0-4db1-b56f-cda70d422f28")
 	)
 	(wire
 		(pts
@@ -2535,7 +2505,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 55.88 39.37 0)
+		(at 22.86 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2546,7 +2516,7 @@
 		(fields_autoplaced yes)
 		(uuid "5586e690-f987-48b1-94ed-899878713b03")
 		(property "Reference" "#PWR02"
-			(at 55.88 43.18 0)
+			(at 22.86 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2557,7 +2527,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 55.88 34.29 0)
+			(at 22.86 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2567,7 +2537,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Diodes_UDFN3810-9_TYPE_B"
-			(at 55.88 39.37 0)
+			(at 22.86 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2578,7 +2548,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 39.37 0)
+			(at 22.86 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2589,7 +2559,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 55.88 39.37 0)
+			(at 22.86 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
