@@ -3085,6 +3085,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 60.96) (xy 101.6 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "097c8133-ff60-48d4-8c82-c9d3f3252c15")
+	)
+	(wire
+		(pts
 			(xy 138.43 24.13) (xy 143.51 24.13)
 		)
 		(stroke
@@ -3202,16 +3212,6 @@
 			(type default)
 		)
 		(uuid "38d9c8c5-1d31-498a-bb48-951af34a6801")
-	)
-	(wire
-		(pts
-			(xy 101.6 60.96) (xy 93.98 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ec2434a-e9c2-494c-862c-27012e9c64df")
 	)
 	(wire
 		(pts
@@ -3814,7 +3814,7 @@
 		(uuid "4ae33e49-5f98-4ba7-94a4-5f4e095d7138")
 	)
 	(label "HSE"
-		(at 78.74 67.31 0)
+		(at 96.52 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
