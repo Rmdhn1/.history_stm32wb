@@ -3095,6 +3095,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 54.61) (xy 38.1 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dc5d16d-334f-43b0-8846-8fa6aea2b085")
+	)
+	(wire
+		(pts
 			(xy 138.43 24.13) (xy 143.51 24.13)
 		)
 		(stroke
@@ -3192,6 +3202,16 @@
 			(type default)
 		)
 		(uuid "21ef408b-d878-4d78-8f1a-511320ecddce")
+	)
+	(wire
+		(pts
+			(xy 40.64 57.15) (xy 38.1 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d723bfe-7aa2-47b2-ba82-ac50b3d8ed95")
 	)
 	(wire
 		(pts
@@ -3312,6 +3332,16 @@
 			(type default)
 		)
 		(uuid "62f48092-6cab-4a92-a48e-57aac426f17c")
+	)
+	(wire
+		(pts
+			(xy 40.64 59.69) (xy 38.1 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "665b11e1-7cf8-4227-9381-e12a37bb0731")
 	)
 	(wire
 		(pts
@@ -3783,6 +3813,16 @@
 		)
 		(uuid "fe2e1b49-82e7-43c7-9c93-2d618c200d5e")
 	)
+	(label "SWD_DIO"
+		(at 40.64 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "075735c1-8367-4632-be2d-b38a9a63086c")
+	)
 	(label "LSE OUT"
 		(at 92.71 96.52 0)
 		(effects
@@ -3822,6 +3862,26 @@
 			(justify left bottom)
 		)
 		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
+	)
+	(label "SWD"
+		(at 40.64 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
+	)
+	(label "SWD_CLK"
+		(at 40.64 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca3358b2-4c4f-4ebf-943c-3f1e05a927b4")
 	)
 	(label "SWD_NRST"
 		(at 40.64 52.07 0)
