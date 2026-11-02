@@ -2014,6 +2014,94 @@
 		)
 		(uuid "fd9c3f33-7086-4edc-907d-148a062f7118")
 	)
+	(wire
+		(pts
+			(xy 120.65 24.13) (xy 129.54 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe2e1b49-82e7-43c7-9c93-2d618c200d5e")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 24.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b35a5b0-f9f3-402d-a43e-8ca76c6ae3e6")
+		(property "Reference" "#PWR04"
+			(at 120.65 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 120.65 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Aesthetic:GNSS_Flex_Template"
+			(at 120.65 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "08a870fd-a3a5-404c-86f2-0a03edb99547")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 33.02 38.1 180)
