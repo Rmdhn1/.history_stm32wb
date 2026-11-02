@@ -3445,6 +3445,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 52.07) (xy 38.1 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94416f34-aeb3-49a3-a302-e86975ed30b6")
+	)
+	(wire
+		(pts
 			(xy 121.92 127) (xy 121.92 124.46)
 		)
 		(stroke
@@ -3693,6 +3703,16 @@
 		)
 		(uuid "30911f14-fd8f-4885-8ae4-6e87bc178f22")
 	)
+	(label "SWD_NRST"
+		(at 101.6 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4ae33e49-5f98-4ba7-94a4-5f4e095d7138")
+	)
 	(label "HSE"
 		(at 78.74 67.31 0)
 		(effects
@@ -3702,6 +3722,16 @@
 			(justify left bottom)
 		)
 		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
+	)
+	(label "SWD_NRST"
+		(at 40.64 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d313f296-05c3-475d-88fd-7de5a82c4b67")
 	)
 	(symbol
 		(lib_id "power:GND")
