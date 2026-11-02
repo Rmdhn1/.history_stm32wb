@@ -4438,6 +4438,12 @@
 		(uuid "a6da2e2a-df3a-4fee-8a3e-92f7894d848d")
 	)
 	(junction
+		(at 212.09 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad86d402-21c1-4e5c-a582-afd1578f2393")
+	)
+	(junction
 		(at 71.12 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4588,6 +4594,16 @@
 			(type default)
 		)
 		(uuid "0f1c1f4b-c08a-4b16-bdc7-b28d26a1b376")
+	)
+	(wire
+		(pts
+			(xy 214.63 71.12) (xy 212.09 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13681292-d964-482f-8bbe-a7b2e36ea576")
 	)
 	(wire
 		(pts
@@ -4768,6 +4784,16 @@
 			(type default)
 		)
 		(uuid "4da74296-18a1-4c8b-a0cc-3fe0a3f84416")
+	)
+	(wire
+		(pts
+			(xy 212.09 71.12) (xy 212.09 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50ecc01b-654a-4ba5-b0d4-78515f76a7a1")
 	)
 	(wire
 		(pts
@@ -5051,7 +5077,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 74.93) (xy 212.09 68.58)
+			(xy 212.09 74.93) (xy 212.09 71.12)
 		)
 		(stroke
 			(width 0)
@@ -5450,7 +5476,7 @@
 		(uuid "4ae33e49-5f98-4ba7-94a4-5f4e095d7138")
 	)
 	(label "USB_DM"
-		(at 212.09 71.12 0)
+		(at 214.63 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8359,7 +8385,7 @@
 		(dnp no)
 		(uuid "c3de46b0-0ac8-4908-8a05-b550471ab105")
 		(property "Reference" "R2"
-			(at 217.17 71.1199 0)
+			(at 217.932 71.882 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8370,7 +8396,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 217.17 73.6599 0)
+			(at 217.932 74.422 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
