@@ -4551,6 +4551,12 @@
 		(uuid "1c39d455-745a-4e0e-9b15-98b6d907376e")
 	)
 	(junction
+		(at 184.15 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ccd85cf-9cf1-423d-beb5-baf23853a4f5")
+	)
+	(junction
 		(at 222.25 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7031,6 +7037,84 @@
 			(project "stm32wb"
 				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-PowerSymbol:5V")
+		(at 184.15 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3cbcd90e-5e07-42b9-be63-626e0c0c3033")
+		(property "Reference" "#PWR021"
+			(at 184.15 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5V"
+			(at 184.15 97.79 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
+			(at 184.15 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"5V\""
+			(at 184.15 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d89c8b3b-889e-4994-a1c7-c57154ce8223")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
