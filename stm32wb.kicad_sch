@@ -1839,6 +1839,12 @@
 		(uuid "a6da2e2a-df3a-4fee-8a3e-92f7894d848d")
 	)
 	(junction
+		(at 71.12 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af5ce016-460a-4e07-9f20-5a5f7ad5f7d8")
+	)
+	(junction
 		(at 45.72 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1903,6 +1909,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fac54f3d-f5ad-4bf6-adc2-d185fbfc952e")
+	)
+	(junction
+		(at 57.15 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fefc49ab-0945-4620-bb5a-24de54bb0d0b")
 	)
 	(wire
 		(pts
@@ -2136,13 +2148,23 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 96.52) (xy 101.6 96.52)
+			(xy 66.04 96.52) (xy 71.12 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "75e61d45-71a9-417b-93f0-9c4098844011")
+	)
+	(wire
+		(pts
+			(xy 71.12 96.52) (xy 101.6 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7660b57c-7d7f-403f-8f31-4e61bfc97e03")
 	)
 	(wire
 		(pts
@@ -2675,6 +2697,85 @@
 			(project "stm32wb"
 				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 71.12 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2cfeb2ce-09f1-4a3e-be28-98324973794f")
+		(property "Reference" "C12"
+			(at 69.342 103.378 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 66.802 105.156 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
+			(at 72.0852 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 71.12 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "acbb9f71-4253-4fa9-ba15-93e5da666d14")
+		)
+		(pin "1"
+			(uuid "6a5fd93d-8843-4879-8b3b-648cea81c3b8")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -3449,6 +3550,85 @@
 			(project "stm32wb"
 				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 57.15 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7b0ac0a1-1090-4045-819b-62a5dedd81e8")
+		(property "Reference" "C11"
+			(at 55.372 103.378 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 52.832 105.156 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
+			(at 58.1152 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 57.15 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "810d68b5-6e42-4b1f-8f34-97e3d715e178")
+		)
+		(pin "1"
+			(uuid "8762e983-7eec-4eed-b7c0-e0f0c14ea41e")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "C11")
 					(unit 1)
 				)
 			)
