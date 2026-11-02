@@ -5039,6 +5039,7 @@
 	(symbol
 		(lib_id "custom lib:DLF162500LT-5028A1")
 		(at 33.02 66.04 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5046,7 +5047,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ae5110e7-9e65-4ab1-8ab7-c8ae4e18d722")
 		(property "Reference" "FLT1"
 			(at 33.02 64.77 0)
