@@ -4734,10 +4734,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "37d2cbbd-c9db-4d89-bf42-973044560402")
 		(property "Reference" "J3"
-			(at 27.94 41.91 0)
+			(at 19.558 44.958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4747,7 +4746,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06"
-			(at 27.94 44.45 0)
+			(at 19.558 47.498 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
