@@ -1591,20 +1591,20 @@
 		)
 	)
 	(junction
-		(at 83.82 128.27)
+		(at 111.76 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f798e00-e73b-4ff2-9ca2-d7f3ad25a8c3")
 	)
 	(junction
-		(at 81.28 128.27)
+		(at 109.22 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85a75f3b-b9d5-409c-90ba-206e4c7c61b5")
 	)
 	(wire
 		(pts
-			(xy 81.28 129.54) (xy 81.28 128.27)
+			(xy 109.22 128.27) (xy 109.22 127)
 		)
 		(stroke
 			(width 0)
@@ -1614,7 +1614,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 128.27) (xy 86.36 128.27)
+			(xy 111.76 127) (xy 114.3 127)
 		)
 		(stroke
 			(width 0)
@@ -1624,7 +1624,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 125.73) (xy 86.36 128.27)
+			(xy 114.3 124.46) (xy 114.3 127)
 		)
 		(stroke
 			(width 0)
@@ -1634,7 +1634,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 125.73) (xy 83.82 128.27)
+			(xy 111.76 124.46) (xy 111.76 127)
 		)
 		(stroke
 			(width 0)
@@ -1644,7 +1644,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 128.27) (xy 81.28 125.73)
+			(xy 109.22 127) (xy 109.22 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1654,7 +1654,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 128.27) (xy 83.82 128.27)
+			(xy 109.22 127) (xy 111.76 127)
 		)
 		(stroke
 			(width 0)
@@ -1664,7 +1664,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 34.29 44.45 180)
+		(at 22.86 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1674,7 +1674,7 @@
 		(dnp no)
 		(uuid "0d802998-22a5-45f5-aab4-ee5e91413008")
 		(property "Reference" "C1"
-			(at 38.862 41.91 0)
+			(at 27.432 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1684,7 +1684,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 40.64 44.45 0)
+			(at 29.21 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1694,7 +1694,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 33.3248 40.64 0)
+			(at 21.8948 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1705,7 +1705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 44.45 0)
+			(at 22.86 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1716,7 +1716,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 34.29 44.45 0)
+			(at 22.86 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1743,7 +1743,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 46.99 44.45 180)
+		(at 35.56 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1753,7 +1753,7 @@
 		(dnp no)
 		(uuid "1f400a59-a7c5-4723-8b93-9edd5058bc39")
 		(property "Reference" "C2"
-			(at 51.562 41.91 0)
+			(at 40.132 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1763,7 +1763,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 53.34 44.45 0)
+			(at 41.91 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1773,7 +1773,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 46.0248 40.64 0)
+			(at 34.5948 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1784,7 +1784,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 44.45 0)
+			(at 35.56 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1795,7 +1795,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 46.99 44.45 0)
+			(at 35.56 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1822,7 +1822,7 @@
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32WB:STM32WB55CEUx")
-		(at 83.82 85.09 0)
+		(at 111.76 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1833,7 +1833,7 @@
 		(fields_autoplaced yes)
 		(uuid "2df95a06-8a96-4a28-80e0-6cf7bc968476")
 		(property "Reference" "U1"
-			(at 88.5033 125.73 0)
+			(at 116.4433 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1844,7 +1844,7 @@
 			)
 		)
 		(property "Value" "STM32WB55CEUx"
-			(at 88.5033 128.27 0)
+			(at 116.4433 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1855,7 +1855,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
-			(at 63.5 123.19 0)
+			(at 91.44 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1867,7 +1867,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf"
-			(at 83.82 85.09 0)
+			(at 111.76 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1878,7 +1878,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48"
-			(at 83.82 85.09 0)
+			(at 111.76 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2046,7 +2046,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 72.39 44.45 180)
+		(at 60.96 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2056,7 +2056,7 @@
 		(dnp no)
 		(uuid "337d410b-daed-42d9-ab3d-5931c1ab7269")
 		(property "Reference" "C4"
-			(at 76.962 41.91 0)
+			(at 65.532 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2066,7 +2066,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 78.74 44.45 0)
+			(at 67.31 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2076,7 +2076,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 71.4248 40.64 0)
+			(at 59.9948 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2087,7 +2087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 44.45 0)
+			(at 60.96 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2098,7 +2098,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 72.39 44.45 0)
+			(at 60.96 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2125,7 +2125,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 129.54 0)
+		(at 109.22 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2136,7 +2136,7 @@
 		(fields_autoplaced yes)
 		(uuid "45a18ce4-2c12-4298-833a-7c17907f060b")
 		(property "Reference" "#PWR01"
-			(at 81.28 135.89 0)
+			(at 109.22 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2147,7 +2147,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 134.62 0)
+			(at 109.22 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2157,7 +2157,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Aesthetic:GNSS_Flex_Template"
-			(at 81.28 129.54 0)
+			(at 109.22 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2168,7 +2168,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 129.54 0)
+			(at 109.22 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2179,7 +2179,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 129.54 0)
+			(at 109.22 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2281,7 +2281,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 59.69 44.45 180)
+		(at 48.26 45.72 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2291,7 +2291,7 @@
 		(dnp no)
 		(uuid "bbf9726b-1d99-48e5-8244-542ad27d7b91")
 		(property "Reference" "C3"
-			(at 64.262 41.91 0)
+			(at 52.832 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2301,7 +2301,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 66.04 44.45 0)
+			(at 54.61 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2311,7 +2311,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
-			(at 58.7248 40.64 0)
+			(at 47.2948 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2322,7 +2322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 44.45 0)
+			(at 48.26 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2333,7 +2333,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 59.69 44.45 0)
+			(at 48.26 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
