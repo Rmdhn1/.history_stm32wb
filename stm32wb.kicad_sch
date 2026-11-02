@@ -5214,6 +5214,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 127) (xy 88.9 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62f7ec21-c86c-4260-9d17-451dc6b843e1")
+	)
+	(wire
+		(pts
 			(xy 40.64 59.69) (xy 38.1 59.69)
 		)
 		(stroke
@@ -5704,6 +5714,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 78.74) (xy 101.6 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d40278df-48e9-414d-8d66-5192cf19237e")
+	)
+	(wire
+		(pts
 			(xy 63.5 109.22) (xy 71.12 109.22)
 		)
 		(stroke
@@ -5811,6 +5831,16 @@
 			(type default)
 		)
 		(uuid "f812ab14-544b-41dd-a61c-051ece93ac96")
+	)
+	(wire
+		(pts
+			(xy 74.93 127) (xy 88.9 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e83233-8c08-4de7-a916-a4ab1ae19579")
 	)
 	(wire
 		(pts
@@ -7429,7 +7459,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 135.89 120.65 0)
+		(at 57.15 127 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7441,7 +7471,7 @@
 		(fields_autoplaced yes)
 		(uuid "4781fde6-f59f-4129-a34e-0aafe43ffe06")
 		(property "Reference" "#PWR023"
-			(at 135.89 124.46 0)
+			(at 57.15 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7452,7 +7482,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 135.89 115.57 0)
+			(at 57.15 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7462,7 +7492,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Diodes_UDFN3810-9_TYPE_B"
-			(at 135.89 120.65 0)
+			(at 57.15 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7473,7 +7503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 120.65 0)
+			(at 57.15 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7484,7 +7514,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 135.89 120.65 0)
+			(at 57.15 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8508,7 +8538,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 148.59 120.65 0)
+		(at 69.85 127 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8520,7 +8550,7 @@
 		(fields_autoplaced yes)
 		(uuid "77bac632-4f1c-4f3c-b689-989fb45dff53")
 		(property "Reference" "SW1"
-			(at 148.59 114.3 0)
+			(at 69.85 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8530,7 +8560,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 148.59 116.84 0)
+			(at 69.85 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8540,7 +8570,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
-			(at 148.59 120.65 0)
+			(at 69.85 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8551,7 +8581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 120.65 0)
+			(at 69.85 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8562,7 +8592,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 148.59 120.65 0)
+			(at 69.85 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9540,7 +9570,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 139.7 120.65 270)
+		(at 60.96 127 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9551,7 +9581,7 @@
 		(dnp no)
 		(uuid "c26762f1-f410-4419-b027-4e48a3ac0a5d")
 		(property "Reference" "R3"
-			(at 139.954 118.618 90)
+			(at 61.214 124.968 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9562,7 +9592,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 137.922 123.19 90)
+			(at 59.182 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9573,7 +9603,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Resistor:R_0603_1608Metric"
-			(at 139.7 122.428 90)
+			(at 60.96 128.778 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9584,7 +9614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 120.65 0)
+			(at 60.96 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9595,7 +9625,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 139.7 120.65 0)
+			(at 60.96 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
