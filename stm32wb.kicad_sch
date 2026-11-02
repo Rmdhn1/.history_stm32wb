@@ -4444,7 +4444,7 @@
 		(uuid "af5ce016-460a-4e07-9f20-5a5f7ad5f7d8")
 	)
 	(junction
-		(at 227.33 80.01)
+		(at 229.87 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9694346-da39-4022-aaed-3ea1cac95ee7")
@@ -4821,16 +4821,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 80.01) (xy 232.41 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5efd7ce8-29ed-4c59-9629-2e48a354b4bf")
-	)
-	(wire
-		(pts
 			(xy 121.92 39.37) (xy 124.46 39.37)
 		)
 		(stroke
@@ -5021,7 +5011,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 68.58) (xy 227.33 80.01)
+			(xy 229.87 68.58) (xy 229.87 80.01)
 		)
 		(stroke
 			(width 0)
@@ -5291,7 +5281,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 80.01) (xy 217.17 80.01)
+			(xy 217.17 80.01) (xy 232.41 80.01)
 		)
 		(stroke
 			(width 0)
@@ -5358,6 +5348,16 @@
 			(type default)
 		)
 		(uuid "e9570118-605c-49f1-beac-75f65a126d4f")
+	)
+	(wire
+		(pts
+			(xy 229.87 68.58) (xy 227.33 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb0da94a-a6c9-4bfe-bde3-d69b6dea6290")
 	)
 	(wire
 		(pts
@@ -7339,10 +7339,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6ebf949a-8244-49ac-9ed8-bced0eacef0a")
 		(property "Reference" "R1"
-			(at 226.06 71.1199 0)
+			(at 225.044 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7353,7 +7352,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 226.06 73.6599 0)
+			(at 225.044 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
