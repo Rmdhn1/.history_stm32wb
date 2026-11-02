@@ -4751,7 +4751,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0p8"
 			(at 62.992 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5147,7 +5147,7 @@
 				)
 			)
 		)
-		(property "Value" "0p8"
+		(property "Value" "0p3"
 			(at 43.688 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
