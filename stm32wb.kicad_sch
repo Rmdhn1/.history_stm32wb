@@ -2533,7 +2533,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32.768"
 			(at 82.55 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
