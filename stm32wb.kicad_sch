@@ -2765,6 +2765,36 @@
 		)
 		(uuid "fe2e1b49-82e7-43c7-9c93-2d618c200d5e")
 	)
+	(label "LSE OUT"
+		(at 92.71 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e1783ef-59c0-4884-a0e4-6c616f362e70")
+	)
+	(label "LSE IN"
+		(at 93.98 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30911f14-fd8f-4885-8ae4-6e87bc178f22")
+	)
+	(label "HSE"
+		(at 78.74 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 120.65 24.13 0)
