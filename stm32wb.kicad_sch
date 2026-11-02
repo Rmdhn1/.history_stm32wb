@@ -4084,6 +4084,12 @@
 		(uuid "1c39d455-745a-4e0e-9b15-98b6d907376e")
 	)
 	(junction
+		(at 212.09 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "399967ae-33dd-4678-aa43-057f9499476c")
+	)
+	(junction
 		(at 143.51 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4178,6 +4184,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ccb380b1-de8d-4be9-9264-91581d4bef45")
+	)
+	(junction
+		(at 209.55 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d01a23e3-9180-47e6-a260-575301bc63f1")
 	)
 	(junction
 		(at 96.52 34.29)
@@ -4451,6 +4463,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 68.58) (xy 209.55 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4da74296-18a1-4c8b-a0cc-3fe0a3f84416")
+	)
+	(wire
+		(pts
 			(xy 116.84 34.29) (xy 116.84 39.37)
 		)
 		(stroke
@@ -4708,6 +4730,16 @@
 			(type default)
 		)
 		(uuid "8b1605e7-44ba-4377-9614-b639bef08af0")
+	)
+	(wire
+		(pts
+			(xy 212.09 74.93) (xy 212.09 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "908781d5-cf8d-4524-baf5-b548c1484b9d")
 	)
 	(wire
 		(pts
@@ -6843,7 +6875,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
-		(at 208.28 82.55 0)
+		(at 212.09 80.01 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6854,29 +6886,27 @@
 		(fields_autoplaced yes)
 		(uuid "70e67802-ec9b-4218-8e91-424a757d2994")
 		(property "Reference" "U2"
-			(at 209.9311 74.93 0)
+			(at 223.52 73.5898 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 209.9311 77.47 0)
+			(at 223.52 76.1298 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 209.55 88.9 0)
+			(at 205.74 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6889,7 +6919,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 209.55 90.805 0)
+			(at 203.835 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6901,7 +6931,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
-			(at 208.28 82.55 0)
+			(at 212.09 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
