@@ -5835,7 +5835,7 @@
 		(dnp no)
 		(uuid "d303e719-2126-48c6-935c-7ac8cffb788c")
 		(property "Reference" "J1"
-			(at 13.97 72.6831 0)
+			(at 16.002 68.072 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5846,7 +5846,7 @@
 			)
 		)
 		(property "Value" "Conn_Coaxial"
-			(at 13.97 75.2231 0)
+			(at 26.416 70.104 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
