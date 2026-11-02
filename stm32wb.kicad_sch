@@ -1296,15 +1296,51 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 81.28 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85a75f3b-b9d5-409c-90ba-206e4c7c61b5")
+	)
 	(wire
 		(pts
-			(xy 81.28 129.54) (xy 81.28 125.73)
+			(xy 81.28 129.54) (xy 81.28 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1960917d-f377-496b-9d70-91b8059da830")
+	)
+	(wire
+		(pts
+			(xy 83.82 125.73) (xy 83.82 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7808dae3-5722-4c51-91d8-25982076a26c")
+	)
+	(wire
+		(pts
+			(xy 81.28 128.27) (xy 81.28 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95e88b73-4464-4a4c-b34a-a3d435415d05")
+	)
+	(wire
+		(pts
+			(xy 83.82 128.27) (xy 81.28 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3a6448-44eb-4162-8d08-fef13342077d")
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32WB:STM32WB55CEUx")
