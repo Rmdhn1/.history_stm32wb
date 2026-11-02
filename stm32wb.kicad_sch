@@ -1815,6 +1815,12 @@
 		(uuid "79ca3295-b531-4f62-8bf8-19de5da1bd57")
 	)
 	(junction
+		(at 63.5 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ec16d5a-0f83-430c-b602-5b3ddecdb989")
+	)
+	(junction
 		(at 121.92 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2208,6 +2214,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 109.22) (xy 63.5 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93de747e-a17a-4344-8be1-fe43cc8b8de9")
+	)
+	(wire
+		(pts
 			(xy 121.92 127) (xy 121.92 124.46)
 		)
 		(stroke
@@ -2255,6 +2271,16 @@
 			(type default)
 		)
 		(uuid "a987f6a9-a273-4a9d-a0dd-d27ae5701062")
+	)
+	(wire
+		(pts
+			(xy 57.15 104.14) (xy 57.15 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b88a5f3c-3b53-47f9-a41d-4633412acdbb")
 	)
 	(wire
 		(pts
@@ -2308,6 +2334,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 109.22) (xy 71.12 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbb7f3e9-a1c2-48cb-825c-749f3986d9fb")
+	)
+	(wire
+		(pts
 			(xy 83.82 41.91) (xy 96.52 41.91)
 		)
 		(stroke
@@ -2325,6 +2361,16 @@
 			(type default)
 		)
 		(uuid "d0179f15-f52b-4d7f-bc4c-68eddea1f5f3")
+	)
+	(wire
+		(pts
+			(xy 63.5 109.22) (xy 71.12 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5c05b98-6061-47c0-b95c-b50b6c81c56c")
 	)
 	(wire
 		(pts
@@ -3550,6 +3596,84 @@
 			(project "stm32wb"
 				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72a5b682-175e-46d2-a780-9492dc22ec30")
+		(property "Reference" "#PWR08"
+			(at 63.5 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.5 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Aesthetic:GNSS_Flex_Template"
+			(at 63.5 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71175b00-6417-4c25-88f5-5bee2f2c3dd6")
+		)
+		(instances
+			(project "stm32wb"
+				(path "/42cfd351-14c8-4266-807c-1b3ce366d458"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
