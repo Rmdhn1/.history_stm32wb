@@ -3285,6 +3285,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 101.6) (xy 147.32 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52fa1689-393a-4350-b430-65ff7b70a1ac")
+	)
+	(wire
+		(pts
 			(xy 132.08 43.18) (xy 132.08 34.29)
 		)
 		(stroke
@@ -3515,6 +3525,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 83.82) (xy 147.32 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b1605e7-44ba-4377-9614-b639bef08af0")
+	)
+	(wire
+		(pts
 			(xy 119.38 39.37) (xy 121.92 39.37)
 		)
 		(stroke
@@ -3715,6 +3735,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 86.36) (xy 147.32 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3eedb55-d770-4615-a3cb-aa3a8ac803f5")
+	)
+	(wire
+		(pts
 			(xy 63.5 109.22) (xy 71.12 109.22)
 		)
 		(stroke
@@ -3824,7 +3854,7 @@
 		(uuid "075735c1-8367-4632-be2d-b38a9a63086c")
 	)
 	(label "SWD_CLK"
-		(at 147.32 86.36 0)
+		(at 149.86 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3863,6 +3893,16 @@
 		)
 		(uuid "4ae33e49-5f98-4ba7-94a4-5f4e095d7138")
 	)
+	(label "SWD"
+		(at 149.86 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
+	)
 	(label "HSE"
 		(at 96.52 60.96 0)
 		(effects
@@ -3874,7 +3914,7 @@
 		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
 	)
 	(label "SWD_DIO"
-		(at 147.32 83.82 0)
+		(at 149.86 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
