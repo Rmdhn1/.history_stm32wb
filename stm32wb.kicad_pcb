@@ -623,12 +623,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "37ad1138-7cb1-4269-8de7-183b7a9b3c59")
-		(at 148.2 59.82 -90)
+		(at 151 58.545 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C7"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "1e575894-f20c-4aa9-a844-8ded25bccdd0")
+			(uuid "3e500114-9cea-4e20-a698-cfdad78ffd21")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -640,7 +640,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "4caeaeb8-69e3-4cf5-8315-36fd140cd299")
+			(uuid "8b23c828-6d64-4a6b-a284-3a5b4a34ce19")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -654,7 +654,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5c435e3f-2aa2-4680-ac82-30a13f8583bd")
+			(uuid "fe360a0f-51d2-4bc6-bf49-9fdd90c65c15")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -667,7 +667,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e967e308-a647-4933-a6c4-a163cf13253a")
+			(uuid "aa42d4bc-e84c-4ab6-83db-d41ad4aba518")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2665,12 +2665,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "5a660e5d-20ef-456d-8d95-ee5d62d861bb")
-		(at 146.2 59.775 90)
+		(at 149 58.5 90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C5"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "37de0ee1-0c30-4b02-b0e5-958d4c84e75b")
+			(uuid "683bffb7-215a-4374-b988-33c1b94eedc4")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2682,7 +2682,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "b0e55d2a-bbe6-426c-8f17-b0f41b8cd692")
+			(uuid "defe6eee-f833-4249-90c2-e9e88c7e4d3d")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2696,7 +2696,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c7bc894-a7d3-4103-86ef-77aae5d43102")
+			(uuid "93d9db14-4ffe-4799-b365-d872f56ea94a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2709,7 +2709,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c429326-96b7-4cbb-bc8f-38671968aa20")
+			(uuid "b49a338f-b892-44d8-bd3a-6e35c2afc879")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5455,13 +5455,13 @@
 	(footprint "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm"
 		(layer "F.Cu")
 		(uuid "ae7a0f99-522a-42dc-80c4-4706644fc42e")
-		(at 151.2 58.5)
+		(at 154 57.225)
 		(descr "Miniature Crystal Clock Oscillator ECS 2520MV series, https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf")
 		(tags "Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS")
 		(property "Reference" "Y2"
 			(at 0 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "53eceb5e-8728-4882-a888-5c4f60949aab")
+			(uuid "54f85ffd-a3ec-4808-8c5c-a905ba362376")
 			(effects
 				(font
 					(size 1 1)
@@ -5472,7 +5472,7 @@
 		(property "Value" "32.768 kHz"
 			(at 0 2.5 0)
 			(layer "F.Fab")
-			(uuid "3a6bd8c1-b41a-41c3-9b91-e1e56dbcbc4c")
+			(uuid "3ff368e5-b897-40fc-9a30-db3613964620")
 			(effects
 				(font
 					(size 1 1)
@@ -5485,7 +5485,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "78270188-11ac-4c7d-9bd5-f4355e8d3878")
+			(uuid "fb5f17bf-29f6-43fc-b29c-f4283be7c5cd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5498,7 +5498,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9442abc5-97f8-4950-812d-bbe2ca62b5d2")
+			(uuid "fbf9bca6-d2c8-475e-9017-2ae79e63371e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7323,7 +7323,7 @@
 		(property "Reference" "U1"
 			(at -4.030509 -4.313351 0)
 			(layer "F.SilkS")
-			(uuid "0c48f767-c579-44a1-8b7f-0a76034c923e")
+			(uuid "21ea147e-82bd-4b03-8ed1-43e677222d76")
 			(effects
 				(font
 					(size 1 1)
@@ -7334,7 +7334,7 @@
 		(property "Value" "STM32WB55CEUx"
 			(at 0 4.83 315)
 			(layer "F.Fab")
-			(uuid "ccb81a24-c018-45b6-8421-112af0ee45d3")
+			(uuid "1c933e42-8293-4036-9b1e-f813e1e020d5")
 			(effects
 				(font
 					(size 1 1)
@@ -7346,7 +7346,7 @@
 			(at 0 0 315)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "840f1166-6b42-4ed6-8dd0-8be5c960205f")
+			(uuid "20e64524-26b4-4517-81c8-7e74d20ed77b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7357,7 +7357,7 @@
 			(at 0 0 315)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3e8fdb28-13c6-4f19-8eac-f48a689f6be8")
+			(uuid "e8135c8d-285c-4abc-b863-a8e612e0a3fa")
 			(effects
 				(font
 					(size 1.27 1.27)
