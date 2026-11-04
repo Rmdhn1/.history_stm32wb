@@ -156,12 +156,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "0cf260b5-2553-4b73-9ddb-a6ff8f3ace7b")
-		(at 130.7 25.589949 -90)
+		(at 127 25.775 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C12"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "c1c3c10c-31e6-4681-b5f3-4005ed1ea6f6")
+			(uuid "2153e062-f5d6-4d61-ae12-2fd7eb815925")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -173,7 +173,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "4a0af910-e603-4f17-b9a8-bc9a287ea7e6")
+			(uuid "3ce5d7b9-f0a0-4759-b177-352cbcc75358")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -187,7 +187,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0889c09c-bcf3-4f78-8a86-65a75045885c")
+			(uuid "3ff64efd-b6d6-4357-8be8-faf43ea2c6f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -200,7 +200,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4356e301-d9b5-43fb-8760-46d1d7cf9ced")
+			(uuid "e248163c-f325-4852-ac68-84f8504d198f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -623,12 +623,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "37ad1138-7cb1-4269-8de7-183b7a9b3c59")
-		(at 137.2 35.589949 -90)
+		(at 133.5 35.775 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C7"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "d79e9e5b-edfb-4067-a6bc-0ea7aeedb598")
+			(uuid "ef5e90ef-ea76-4d33-96d3-a687a07426d8")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -640,7 +640,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "ed10c3b2-0457-464a-ad2d-e91409722217")
+			(uuid "437c69ab-6f4f-4550-98a3-14ffd4d2b88a")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -654,7 +654,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a98b41ad-52ef-4658-93f6-0fcdbf0a9d91")
+			(uuid "4d517da8-ed7b-46bd-bf1d-3a09037e0d34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -667,7 +667,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e7813c1-032e-435a-ad68-652a9f1ceead")
+			(uuid "965afa26-6915-4c6e-afa5-e37a1f9d85e2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -891,13 +891,13 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3eb3f3bb-5394-482f-9e97-8e4de8dd4cd3")
-		(at 152.4 29.089949 180)
+		(at 148.7 29.275 180)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L2"
 			(at 0 -2 0)
 			(layer "F.SilkS")
-			(uuid "c6f34bd6-ebcf-4842-81ac-0646f65ab79d")
+			(uuid "7c11774b-20cc-439d-a0e0-5f088e5ec43c")
 			(effects
 				(font
 					(size 1 1)
@@ -908,7 +908,7 @@
 		(property "Value" "L"
 			(at 0 1.9 0)
 			(layer "F.Fab")
-			(uuid "8b70e60c-878c-478d-bfda-4272be3b0b48")
+			(uuid "5400bf7f-e373-45d5-b24c-e01fdc8fcb19")
 			(effects
 				(font
 					(size 1 1)
@@ -920,7 +920,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "038e4ff4-07e4-4483-b0df-d9852785beaa")
+			(uuid "15bafdc8-804a-424f-b648-6355783b5770")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -931,7 +931,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a02bf3c9-7f52-4291-ac33-05ecb6b63b4f")
+			(uuid "6031fb60-a581-444d-984c-749ac28d5212")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1319,13 +1319,13 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "51cc4fc7-52b4-408b-9eb0-eb31431626ff")
-		(at 156.9 31.089949 90)
+		(at 153.2 31.275 90)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L3"
 			(at 0 -2.5 180)
 			(layer "F.SilkS")
-			(uuid "933cef4d-1023-4b22-8a5e-817a15066013")
+			(uuid "11084333-eace-4e97-881e-e8493468ba9e")
 			(effects
 				(font
 					(size 1 1)
@@ -1336,7 +1336,7 @@
 		(property "Value" "L"
 			(at 0 1.9 90)
 			(layer "F.Fab")
-			(uuid "32cae2dd-abd8-4c24-990b-6759bec987c5")
+			(uuid "e839d2ea-58d8-4fcb-9ff2-0f64f66ec797")
 			(effects
 				(font
 					(size 1 1)
@@ -1348,7 +1348,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5cc3389-c012-49dc-a44c-8238619ab833")
+			(uuid "043569c6-b053-4aa3-8424-d9d5d57fd135")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1359,7 +1359,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37e5d24e-54c1-4fac-9aec-7ced498e558f")
+			(uuid "a71972bc-0e11-4ad8-a19e-6e85f9dd9830")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1479,12 +1479,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "525936dc-522b-436d-8694-bee256f5272f")
-		(at 150.5 37.5 -90)
+		(at 146.8 37.685051 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C13"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "3c533346-a6f6-41a9-84bf-390df85f62e0")
+			(uuid "9650ef62-c9d5-4c11-aee9-a96aa0ca928b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1496,7 +1496,7 @@
 		(property "Value" "0p3"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "cf5ac8be-f499-425a-a8d3-d908c5794e6d")
+			(uuid "74510ab4-fb43-4247-b36d-fa309406e865")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1510,7 +1510,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3321cb1-945e-42ef-8b97-add7c77ea05e")
+			(uuid "c0cf8bf4-0ca9-4660-a22c-ea7a8d424618")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1523,7 +1523,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "800fd2bc-574d-4b79-9384-cb60c29ec93d")
+			(uuid "fbbc6f8f-20c2-4431-9cde-7fa8e721a6b6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1747,13 +1747,13 @@
 	(footprint "footprints:DLF-4_1P6X0P8"
 		(layer "F.Cu")
 		(uuid "55d7d2df-5fcc-45d7-be7e-a985c88e2c39")
-		(at 153.3904 33.5)
+		(at 149.6904 33.685051)
 		(tags "DLF162500LT-5028A1 ")
 		(property "Reference" "FLT1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "a7feb1cd-c1cc-45d4-83c9-9a8c65fcee70")
+			(uuid "bd60926c-6d81-4c44-b94f-8057a69a614e")
 			(effects
 				(font
 					(size 1 1)
@@ -1765,7 +1765,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "b63bb447-3a95-4849-b7dd-3ee4f0aa43aa")
+			(uuid "4f57455f-8e23-4d73-8ac7-e33ecb3c0647")
 			(effects
 				(font
 					(size 1 1)
@@ -1777,7 +1777,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "af354c7a-b374-458d-9b23-59c32d447ca4")
+			(uuid "754a5212-c5ec-4aae-9e74-5fc996f8c8b6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1788,7 +1788,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28bc8934-d166-40a9-bc99-0d399e4519e5")
+			(uuid "784d9fcd-97ab-4b45-bad1-2f234fdf0245")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2155,12 +2155,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "561408b0-265f-4f94-896a-c38b3c49f663")
-		(at 145.9 27.089949 -90)
+		(at 142.2 27.275 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C1"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "9fa26ef8-0909-4f81-9e7b-9dd013ff97d3")
+			(uuid "ce385f81-3cea-4e91-8f9c-433703d503ba")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2172,7 +2172,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "e70dc165-bf14-4e01-b656-19a97c54e26d")
+			(uuid "c8d17c83-4350-4901-80e5-ea948f727417")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2186,7 +2186,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "483f779c-b2eb-47ed-ae29-fd7e67c50f4f")
+			(uuid "83572b4b-789a-409c-b150-3781804aae9d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2199,7 +2199,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "382808fe-798b-4d01-b2c5-232aa5255108")
+			(uuid "46e04acb-94cd-4fe8-802c-888fa7d3da02")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2665,12 +2665,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "5a660e5d-20ef-456d-8d95-ee5d62d861bb")
-		(at 134.7 35.589949 90)
+		(at 131 35.775 90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C5"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "d4edcb34-04ff-4037-8163-eec30b029be6")
+			(uuid "adca30b0-487f-4e3e-81c7-77c6027ca0dd")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2682,7 +2682,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "e65e16d1-0cdf-4ac8-9242-9f15cbd9dd40")
+			(uuid "0f69d6f9-5d0b-4e7e-9455-2367d06e0d36")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2696,7 +2696,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88fe2694-45ab-4214-82bf-38715b2c6ade")
+			(uuid "0079e8de-0a46-4b22-aba5-cd7fb6f89101")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2709,7 +2709,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5cd5238f-1a31-412f-b08f-ede875a862dd")
+			(uuid "64fd92f0-3485-4561-9584-9bde0de3b8c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3335,12 +3335,12 @@
 	(footprint "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 135.95 25.589949)
+		(at 132.25 25.775)
 		(descr "MicroCrystal CC7V-T1A/CM7V-T1A, Crystal, 3.2x1.5mm package, SMD, http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf")
 		(property "Reference" "Y1"
 			(at 0 -1.95 0)
 			(layer "F.SilkS")
-			(uuid "06a508e8-f2d9-4a04-8808-5d33b78be176")
+			(uuid "3ba1424e-3470-4aa3-869f-9d09d60a8861")
 			(effects
 				(font
 					(size 1 1)
@@ -3351,7 +3351,7 @@
 		(property "Value" "32.768kHz"
 			(at 0 1.95 0)
 			(layer "F.Fab")
-			(uuid "d375ab9d-563e-4ae9-b9b0-3964e3d66e40")
+			(uuid "eb2fc601-299b-41dc-b1f5-1f672aaebe7c")
 			(effects
 				(font
 					(size 1 1)
@@ -3363,7 +3363,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bba07f28-a4dc-4a32-a803-0b73c7a042e1")
+			(uuid "6c5116ab-dc4a-438a-aef0-658ad7d29d1a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3374,7 +3374,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6228818d-5cfe-49f5-a745-853f6434be29")
+			(uuid "ab29470c-49f2-4a20-ac61-d3469f5c4a8b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3518,13 +3518,13 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7f36ee8a-9643-4f0b-8568-433a672386a3")
-		(at 154.5 37)
+		(at 150.8 37.185051)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L1"
 			(at 0 -1.9 0)
 			(layer "F.SilkS")
-			(uuid "4fceb779-b6a0-4cb7-b5c8-03cb91349418")
+			(uuid "4d5fd068-0212-44e9-835d-99052804badd")
 			(effects
 				(font
 					(size 1 1)
@@ -3535,7 +3535,7 @@
 		(property "Value" "2n7"
 			(at 0 1.9 0)
 			(layer "F.Fab")
-			(uuid "49626fca-7701-4997-9312-b36348d39a56")
+			(uuid "1d06bc27-8ab1-45a7-8717-78ee53e9ec92")
 			(effects
 				(font
 					(size 1 1)
@@ -3547,7 +3547,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ee1ac30-b5b7-45fa-9517-b417e5665092")
+			(uuid "00cefb90-2795-438a-8253-69724ec8a64f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3558,7 +3558,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55687618-63e3-4fab-9eff-e2c145ab3d36")
+			(uuid "ff1e41de-f000-4967-904d-1f41c9066724")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4099,13 +4099,13 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8d0eb057-367d-480e-b0ca-cd811f820ac3")
-		(at 151.96 26.27 90)
+		(at 148.26 26.455051 90)
 		(descr "Through hole angled pin header, 2x03, 1.27mm pitch, 4.0mm pin length, double rows")
 		(tags "Through hole angled pin header THT 2x03 1.27mm double row")
 		(property "Reference" "J4"
 			(at 3.0675 -1.635 90)
 			(layer "F.SilkS")
-			(uuid "958c1666-b268-4e53-a7a4-26743200bf79")
+			(uuid "827846f9-96a8-4555-a3f4-047607b0e248")
 			(effects
 				(font
 					(size 1 1)
@@ -4116,7 +4116,7 @@
 		(property "Value" "Conn_01x06_Socket"
 			(at 3.0675 4.175 90)
 			(layer "F.Fab")
-			(uuid "faba777c-2766-4d60-8424-739eaed4e74e")
+			(uuid "032aa33d-79c8-4267-9fb2-6b5e7cd53406")
 			(effects
 				(font
 					(size 1 1)
@@ -4128,7 +4128,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95d2c79c-95f8-486e-9bf0-997c495c7a02")
+			(uuid "c4a09809-4c3b-4c92-bf7c-9b5b63d2aaee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4139,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c346e700-ae7f-4463-8e35-80cefa18a5e6")
+			(uuid "5497c984-04b8-45bb-bbb6-d96dbfc50a10")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4913,12 +4913,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "a3af34d9-3e68-42a7-a782-3c1e6c622955")
-		(at 158.5 37.5 -90)
+		(at 154.8 37.685051 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C14"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "829c14a1-ef14-4300-a91c-ea0d8223cc75")
+			(uuid "9f9afe4e-c8a1-4264-8b0c-c7a1ad9cf646")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4930,7 +4930,7 @@
 		(property "Value" "0p8"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "152e0d70-9108-4fa3-ad74-09ebb11270ce")
+			(uuid "1b637916-3f98-4b67-9c5b-bf021141a1b9")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4944,7 +4944,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "062060d3-2c2a-4902-80b5-61ac49ade1ca")
+			(uuid "7da05d63-297b-41d8-9111-e0615c18f3c5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4957,7 +4957,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2344860-4957-406d-93fd-94585055148d")
+			(uuid "15e6eb91-5d5e-4dfb-a770-748b81a20da5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5380,13 +5380,13 @@
 	(footprint "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm"
 		(layer "F.Cu")
 		(uuid "ae7a0f99-522a-42dc-80c4-4706644fc42e")
-		(at 144.625 35.314949 -90)
+		(at 140.925 35.5 -90)
 		(descr "Miniature Crystal Clock Oscillator ECS 2520MV series, https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf")
 		(tags "Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS")
 		(property "Reference" "Y2"
 			(at 0 -2.575 180)
 			(layer "F.SilkS")
-			(uuid "4ca09d1a-b840-44f9-ac32-03c692fab5dc")
+			(uuid "36767f13-6139-47ae-88a6-614441f68993")
 			(effects
 				(font
 					(size 1 1)
@@ -5397,7 +5397,7 @@
 		(property "Value" "32.768 kHz"
 			(at 0 2.5 90)
 			(layer "F.Fab")
-			(uuid "eabc660e-207f-4784-a171-610972806047")
+			(uuid "7aca556a-03a0-4fb9-b725-abd728203720")
 			(effects
 				(font
 					(size 1 1)
@@ -5410,7 +5410,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b7c0c575-8e84-4442-a44f-edb7c84feed7")
+			(uuid "686aed51-e759-4751-b461-1e3286fa0a21")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5423,7 +5423,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef79cb0a-78b7-4709-b2b3-6a4360caef24")
+			(uuid "fd821f19-dedd-41db-9bc3-9a06c0e6a18d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5661,12 +5661,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "aebfb3e4-ace8-43b5-b720-83a9049c09d0")
-		(at 132.7 25.589949 -90)
+		(at 129 25.775 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C11"
 			(at 0 -1.43 90)
 			(layer "F.Fab")
-			(uuid "40f4943f-0256-4cdb-bfd6-6215af457346")
+			(uuid "74f02159-a73f-4bb0-860a-6c22d8f5e5fe")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5678,7 +5678,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
-			(uuid "0bbb02f4-9874-4cbe-9c3e-4e1c102ba2b3")
+			(uuid "6d1e2f74-1561-4e79-a77e-181d21203a84")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5692,7 +5692,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c77f76e4-fc48-4e2a-82be-fcd564f5aba7")
+			(uuid "aa7aa50d-2d74-40a5-8c34-611ce087348c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5705,7 +5705,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e05bc29c-8744-483f-b89a-e6bdb769bbe6")
+			(uuid "3601083e-3712-4a3d-9ff9-90888a240e1a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5929,12 +5929,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "b0bc80bf-10a2-4b68-9dce-68c2ef608cb4")
-		(at 132.7 32.589949)
+		(at 129 32.775)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C6"
 			(at 0 -0.43 0)
 			(layer "F.Fab")
-			(uuid "ef673186-cee6-4b39-9c44-a382f5b8128e")
+			(uuid "3610a466-ba29-4ac7-8b64-51e20d9be05c")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5946,7 +5946,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "45eeeed2-6aa3-484f-8657-5bf01587b13e")
+			(uuid "f86b4272-d395-428d-8688-d96bc9f664ee")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5960,7 +5960,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b348f44f-e381-47d2-80ad-7cf88c2e6188")
+			(uuid "cd896f36-f0b1-414d-af9a-1c53b2bd71ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5973,7 +5973,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4cc3555b-5e9f-45ae-9f0d-8f453da488d4")
+			(uuid "96d7bf48-e521-4f76-9233-8b0e23db3c90")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6197,12 +6197,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "b3520830-ea82-4603-b46a-5b7397304d66")
-		(at 148.125 29.089949 180)
+		(at 144.425 29.275 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C10"
 			(at 0 -1.43 0)
 			(layer "F.Fab")
-			(uuid "fcc3fae2-dcd8-4cfc-814a-5adf2a451c07")
+			(uuid "d24c6bfc-f277-4422-b056-f020ae08fabf")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -6214,7 +6214,7 @@
 		(property "Value" "4u7"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "7fab98ea-bf12-453e-931a-d344ff3aaf68")
+			(uuid "37b2500b-cf01-4aad-8b14-1cd39bddc6ea")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -6228,7 +6228,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e844b9c5-f39b-4aa7-9c9a-abcf3e6957f7")
+			(uuid "80f815f9-c4ef-491f-bb47-1ff8bb85896d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,7 +6241,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acdf3523-ab4a-4d14-9af6-eec7083c984d")
+			(uuid "ee0b77f0-a1a3-4c98-8b99-7358f26cf6a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6827,13 +6827,13 @@
 	(footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 		(layer "F.Cu")
 		(uuid "b7e543fe-ccc6-4713-902b-6564a30f3c5f")
-		(at 164 31.54 -90)
+		(at 160.3 31.725051 -90)
 		(descr "http://www.farnell.com/datasheets/612848.pdf")
 		(tags "BNC Amphenol Horizontal")
 		(property "Reference" "J1"
 			(at 0 4 90)
 			(layer "F.SilkS")
-			(uuid "b734091b-2ecb-43e4-963b-80e3166fdabd")
+			(uuid "9685b666-cb71-49b4-9bfd-5efedee347c7")
 			(effects
 				(font
 					(size 1 1)
@@ -6844,7 +6844,7 @@
 		(property "Value" "Conn_Coaxial"
 			(at 0 6 90)
 			(layer "F.Fab")
-			(uuid "bd098f38-3ee6-417b-ad0c-c2701490cbc9")
+			(uuid "99b99d4d-9f18-4c3f-a7a8-a932a246aea9")
 			(effects
 				(font
 					(size 1 1)
@@ -6857,7 +6857,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "087d93b5-9aad-4c23-87e7-6b70ac824777")
+			(uuid "530a02e7-f34c-4049-8517-7b4993ee22aa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,7 +6870,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00440e51-1e1f-4634-acc6-5a4fdd1dd0e1")
+			(uuid "d16efc2e-7069-43d7-be02-643b0b7ffdf1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7242,13 +7242,13 @@
 	(footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 		(layer "F.Cu")
 		(uuid "ba0f89ba-c146-4731-8129-4067101488de")
-		(at 140.5 30.489949 -45)
+		(at 136.8 30.675 -45)
 		(descr "QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94)")
 		(tags "QFN NoLead ST_UFQFPN48 Analog_CP-48-13 JEDEC_MO-220-WKKD-4")
 		(property "Reference" "U1"
 			(at -4.030509 -4.313351 0)
 			(layer "F.SilkS")
-			(uuid "21ea147e-82bd-4b03-8ed1-43e677222d76")
+			(uuid "8f720353-fe5c-463c-b7b1-3a51417eeb29")
 			(effects
 				(font
 					(size 1 1)
@@ -7259,7 +7259,7 @@
 		(property "Value" "STM32WB55CEUx"
 			(at 0.707107 5.537107 315)
 			(layer "F.Fab")
-			(uuid "1c933e42-8293-4036-9b1e-f813e1e020d5")
+			(uuid "cb9224b1-e39f-4dba-9bbb-6f235b2421f8")
 			(effects
 				(font
 					(size 1 1)
@@ -7271,7 +7271,7 @@
 			(at 0 0 315)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "20e64524-26b4-4517-81c8-7e74d20ed77b")
+			(uuid "223609c4-0835-434f-9c2a-e38ed3896f3f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7282,7 +7282,7 @@
 			(at 0 0 315)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8135c8d-285c-4abc-b863-a8e612e0a3fa")
+			(uuid "2a7a0755-06dd-4444-aea8-836743ea4589")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8519,12 +8519,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "be17e23d-d44e-4413-8177-b084fcd19f8a")
-		(at 132.7 28.589949)
+		(at 129 28.775)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C4"
 			(at 0 0.07 0)
 			(layer "F.Fab")
-			(uuid "299b645e-b77b-4ae4-8eef-3193d951de75")
+			(uuid "30675a10-9bb3-410f-96b5-9e306aadc7e0")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -8536,7 +8536,7 @@
 		(property "Value" "100nF"
 			(at 0 2.93 0)
 			(layer "F.Fab")
-			(uuid "1c84142d-f200-45a1-8486-09ed12ae0af5")
+			(uuid "d021a3ba-9bdd-4f93-a640-d1df06479ca5")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -8550,7 +8550,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "46090b3c-245e-470e-bbba-3cda3600a9ed")
+			(uuid "97cd85a1-7a4e-4ff4-bac4-e125ecbe023e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8563,7 +8563,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4820a56-78f4-422c-8c3f-e8dead0689a3")
+			(uuid "6e43c6a1-b33d-46d1-bb87-45a4e91d7ebd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8787,12 +8787,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "c1832f55-c13f-4c01-9285-c99ee726a499")
-		(at 132.7 30.589949)
+		(at 129 30.775)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C3"
 			(at 0 -1.43 0)
 			(layer "F.Fab")
-			(uuid "e73185d4-fed7-4f87-94e9-7a7992a604ae")
+			(uuid "6ea1d37c-828a-4f9d-b837-1b60b92f98bc")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -8804,7 +8804,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "2814563c-6390-425b-869f-fb9dc5f92da2")
+			(uuid "d9c79817-e129-4338-bcc3-d2e65a2e2a75")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -8818,7 +8818,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b7ef5a7-276a-4f35-9c98-2bce6d9f1d96")
+			(uuid "4bf47e93-5dd4-4e7f-b1aa-3b476416b009")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8831,7 +8831,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3e3a8c4-bd7e-40bf-84a9-6dc15e96c590")
+			(uuid "9ff54b24-12c5-4c8c-98e2-4b64d918767e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9055,13 +9055,13 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c184eff7-1bd5-4d30-baf7-f749e97011db")
-		(at 131.57 39 90)
+		(at 127.87 39.185051 90)
 		(descr "Through hole straight pin header, 1x12, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 1.27mm single row")
 		(property "Reference" "J5"
 			(at 0 -1.745 90)
 			(layer "F.SilkS")
-			(uuid "a0138bbb-206d-4575-9080-9f7d7db6dab7")
+			(uuid "83127515-3c08-4661-9663-75a259fba0a3")
 			(effects
 				(font
 					(size 1 1)
@@ -9072,7 +9072,7 @@
 		(property "Value" "Conn_01x12_Socket"
 			(at 0.115 16.015 90)
 			(layer "F.Fab")
-			(uuid "c00af59d-37cc-40aa-92e9-ea72951d87f3")
+			(uuid "7ed8f464-d10f-4377-8bfa-74036ac8f899")
 			(effects
 				(font
 					(size 1 1)
@@ -9084,7 +9084,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eca463b9-0655-4048-86ec-bcaa3ad3a8ba")
+			(uuid "85b9bcfb-8c97-41a6-b600-69707ca91bba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9095,7 +9095,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47e347e3-ea88-46d5-acdb-aefe4221e5c1")
+			(uuid "d0749db6-f5cc-4f58-b80d-6c505d23ebee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9426,12 +9426,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "c3d18411-5769-4227-9c3a-408d3a1af7de")
-		(at 143.2 24.589949 180)
+		(at 139.5 24.775 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C2"
 			(at 0 -1.43 0)
 			(layer "F.Fab")
-			(uuid "e94256e5-a194-4824-ba85-ac582b01e267")
+			(uuid "d3aefff4-86eb-4f82-b6bb-dc2e55790a18")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -9443,7 +9443,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "33ac7ba1-8e60-4c24-994b-602682433dfe")
+			(uuid "0ed488fa-9db3-4230-aeff-1ca278e03fd9")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -9457,7 +9457,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8bf5080a-c4fc-4a56-88c7-1f4b389575bf")
+			(uuid "e31a90a8-cacc-43df-9cc6-f6c7f07ac5c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9470,7 +9470,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dcae57d6-1b61-4bca-89ea-efac4c6d4705")
+			(uuid "f6f51103-5cae-4939-b603-b62c7d41869c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10379,13 +10379,13 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e286aef8-00a4-4368-b266-9c96f294790b")
-		(at 131.8 22 90)
+		(at 128.1 22.185051 90)
 		(descr "Through hole straight pin header, 1x12, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 1.27mm single row")
 		(property "Reference" "J3"
 			(at 0 -1.745 90)
 			(layer "F.SilkS")
-			(uuid "1b4b48ca-044d-481d-9a3c-2af826110001")
+			(uuid "21b76292-f987-4e4a-a187-8d3c7e6694ae")
 			(effects
 				(font
 					(size 1 1)
@@ -10396,7 +10396,7 @@
 		(property "Value" "Conn_01x12_Socket"
 			(at 0 15.715 90)
 			(layer "F.Fab")
-			(uuid "ebe519dc-81cb-43dc-8ca9-df6f0cf6d7d6")
+			(uuid "d4482010-bf8a-4570-b16b-e62bf6095ff6")
 			(effects
 				(font
 					(size 1 1)
@@ -10408,7 +10408,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "31b251ea-4772-49bd-b045-4ceb513415a1")
+			(uuid "a950cc37-ab67-4b09-93d5-3171c94e5164")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10419,7 +10419,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0eca9320-633e-4e64-9490-2782bfa38a47")
+			(uuid "08572422-406c-4b96-8dcf-6d57cfe9069c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10750,12 +10750,12 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "fa38d571-7d5f-438c-8080-c7094a71943a")
-		(at 148.125 31.109949 180)
+		(at 144.425 31.295 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C8"
 			(at 0 -1.43 0)
 			(layer "F.Fab")
-			(uuid "c4da3c05-fa43-42e4-973c-3f92df0e793f")
+			(uuid "94524ecd-611b-47f2-a76b-7668b42d16ce")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -10767,7 +10767,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "eaf6b278-dd8f-4663-8d01-fce3213de684")
+			(uuid "5369b786-60e1-45ab-b74d-6d619e379e71")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -10781,7 +10781,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c1867659-f7f2-4586-b609-80f4352b508c")
+			(uuid "4571804f-493a-4739-a79d-d33c8242726e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10794,7 +10794,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c10dc82-f7a5-4c42-8490-b176eb19db4b")
+			(uuid "83e40f4a-afc1-4565-8c8b-518081953e13")
 			(effects
 				(font
 					(size 1.27 1.27)
