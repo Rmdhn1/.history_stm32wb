@@ -3335,10 +3335,10 @@
 	(footprint "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 140.5 48.5 180)
+		(at 140.75 48.5)
 		(descr "MicroCrystal CC7V-T1A/CM7V-T1A, Crystal, 3.2x1.5mm package, SMD, http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf")
 		(property "Reference" "Y1"
-			(at 0 -1.95 180)
+			(at 0 -1.95 0)
 			(layer "F.SilkS")
 			(uuid "06a508e8-f2d9-4a04-8808-5d33b78be176")
 			(effects
@@ -3349,7 +3349,7 @@
 			)
 		)
 		(property "Value" "32.768kHz"
-			(at 0 1.95 180)
+			(at 0 1.95 0)
 			(layer "F.Fab")
 			(uuid "d375ab9d-563e-4ae9-b9b0-3964e3d66e40")
 			(effects
@@ -3360,7 +3360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bba07f28-a4dc-4a32-a803-0b73c7a042e1")
@@ -3371,7 +3371,7 @@
 			)
 		)
 		(property "Description" "Crystal"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6228818d-5cfe-49f5-a745-853f6434be29")
@@ -3382,7 +3382,7 @@
 			)
 		)
 		(property "KiLib_Generator" "crystal_resonator_oscillator"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "be329f58-571d-4b0d-bf0b-66853b21e345")
@@ -3394,7 +3394,7 @@
 			)
 		)
 		(property "PROD_ID" "XTAL-"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -3419,14 +3419,14 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.49 1.01)
-			(end 0.49 1.01)
+			(start -2.01 -0.9)
+			(end -2.01 0.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "384cc9b6-e075-47a7-84ea-721060f9cdf6")
+			(uuid "4c3da323-df3a-4f82-a4fd-fe1277ca4e39")
 		)
 		(fp_line
 			(start -0.49 -1.01)
@@ -3439,14 +3439,14 @@
 			(uuid "a3288df5-b061-4b94-b787-90bd6ac80b33")
 		)
 		(fp_line
-			(start -2.01 -0.9)
-			(end -2.01 0.9)
+			(start -0.49 1.01)
+			(end 0.49 1.01)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c3da323-df3a-4f82-a4fd-fe1277ca4e39")
+			(uuid "384cc9b6-e075-47a7-84ea-721060f9cdf6")
 		)
 		(fp_rect
 			(start -2.1 -1.25)
@@ -3472,7 +3472,7 @@
 			(uuid "256d7b07-7c49-44ca-ace7-b1ae244ed684")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "713650b8-de41-4862-93f5-67997f0895ac")
 			(effects
@@ -3483,7 +3483,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1.25 0 180)
+			(at -1.25 0)
 			(size 1 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -3493,7 +3493,7 @@
 			(uuid "b9927c1d-b915-4ea1-badc-e9a52f2ca2c2")
 		)
 		(pad "2" smd roundrect
-			(at 1.25 0 180)
+			(at 1.25 0)
 			(size 1 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
