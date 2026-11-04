@@ -2423,14 +2423,14 @@
 	(footprint "Button_Switch_SMD:Nidec_Copal_CAS-120A"
 		(layer "F.Cu")
 		(uuid "583c7500-6f00-48e7-b2a1-ec8f24c010d3")
-		(at 102.85 61)
+		(at 54.375 41.295)
 		(descr "Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf")
 		(tags "SMD slide switch Nidec CAS 120A ")
 		(property "Reference" "SW1"
 			(at 0 -3.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "49b74137-0d95-4241-ab53-df2ce4da4942")
+			(uuid "91e8fea4-e55b-42b5-9e0e-3c01283c39aa")
 			(effects
 				(font
 					(size 1 1)
@@ -2442,7 +2442,7 @@
 			(at 0 3.7 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "c393f1f7-a654-40e5-a691-79ec3b3c9740")
+			(uuid "291d50cb-ca62-4c71-bd6b-8d2898035a64")
 			(effects
 				(font
 					(size 1 1)
@@ -2455,7 +2455,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bea9117c-7c3b-4ec0-9f76-2be8789d6906")
+			(uuid "15766813-ea33-4a26-a9ad-68c3c0636488")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2468,7 +2468,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d327a65f-14f5-41d7-8883-6a45c69fa534")
+			(uuid "74ee92b8-9fa5-491f-9a91-51b7864ad1f8")
 			(effects
 				(font
 					(size 1.27 1.27)
