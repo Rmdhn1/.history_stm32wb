@@ -11625,7 +11625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:BNC_PanelMountable_Vertical"
+		(property "Footprint" "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 			(at 34.29 73.66 0)
 			(hide yes)
 			(show_name no)
