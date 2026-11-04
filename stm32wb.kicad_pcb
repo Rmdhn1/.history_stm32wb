@@ -156,7 +156,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "0cf260b5-2553-4b73-9ddb-a6ff8f3ace7b")
-		(at 131.55 54.5 -90)
+		(at 134.3 52 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C12"
 			(at 0 -1.43 90)
@@ -3335,7 +3335,7 @@
 	(footprint "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 129.5 51 180)
+		(at 140.5 48.5 180)
 		(descr "MicroCrystal CC7V-T1A/CM7V-T1A, Crystal, 3.2x1.5mm package, SMD, http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf")
 		(property "Reference" "Y1"
 			(at 0 -1.95 180)
@@ -5661,7 +5661,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "aebfb3e4-ace8-43b5-b720-83a9049c09d0")
-		(at 128 54.5 -90)
+		(at 130.75 52 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C11"
 			(at 0 -1.43 90)
