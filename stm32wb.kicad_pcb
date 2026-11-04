@@ -11095,7 +11095,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "ff401922-96e7-4b33-b2d7-ce7c952973a3")
-		(at 95.5 65 -90)
+		(at 98.5 65 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C17"
 			(at 0 -1.43 90)
