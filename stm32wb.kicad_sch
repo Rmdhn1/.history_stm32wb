@@ -10014,7 +10014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
 			(at 69.85 127 0)
 			(hide yes)
 			(show_name no)
