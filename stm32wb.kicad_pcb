@@ -1479,7 +1479,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "525936dc-522b-436d-8694-bee256f5272f")
-		(at 157 45.04 -90)
+		(at 150.5 37.5 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C13"
 			(at 0 -1.43 90)
@@ -1747,7 +1747,7 @@
 	(footprint "footprints:DLF-4_1P6X0P8"
 		(layer "F.Cu")
 		(uuid "55d7d2df-5fcc-45d7-be7e-a985c88e2c39")
-		(at 159.8904 41.04)
+		(at 153.3904 33.5)
 		(tags "DLF162500LT-5028A1 ")
 		(property "Reference" "FLT1"
 			(at 0 0 0)
@@ -3518,7 +3518,7 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7f36ee8a-9643-4f0b-8568-433a672386a3")
-		(at 161 44.54)
+		(at 154.5 37)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L1"
@@ -4913,7 +4913,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "a3af34d9-3e68-42a7-a782-3c1e6c622955")
-		(at 165 45.04 -90)
+		(at 158.5 37.5 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C14"
 			(at 0 -1.43 90)
