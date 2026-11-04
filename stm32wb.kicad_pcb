@@ -1051,7 +1051,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "4312300f-9782-4ee4-a4cf-e066ed4dae07")
-		(at 125 33 90)
+		(at 115 25 90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C9"
 			(at 0 -1.43 90)
@@ -2933,7 +2933,7 @@
 	(footprint "Package_TO_SOT_SMD:TSOT-23-5"
 		(layer "F.Cu")
 		(uuid "73d651a0-b70d-4d9b-8648-dc8970ffd56d")
-		(at 118.5 33)
+		(at 108.5 25)
 		(descr "TSOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB)")
 		(tags "TSOT TO_SOT_SMD")
 		(property "Reference" "U3"
@@ -3975,7 +3975,7 @@
 	(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "8c2c6164-7acf-43b2-a8f3-fd9176886ba3")
-		(at 109 37.01)
+		(at 107.175 35.01)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R2"
@@ -4720,7 +4720,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "9faa941f-5f22-4244-bffa-7a8f212d86df")
-		(at 122.5 33 90)
+		(at 112.5 25 90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C15"
 			(at 0 -1.43 90)
@@ -8326,7 +8326,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "bdc9dfe9-1b10-4b03-8382-da57014c764c")
-		(at 114.5 33 90)
+		(at 104.5 25 90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C16"
 			(at 0 -1.43 90)
@@ -10255,7 +10255,7 @@
 	(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "e2819b71-21ae-4ae3-9045-e82ce00a9154")
-		(at 109 34.5)
+		(at 107.175 32.5)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R1"
