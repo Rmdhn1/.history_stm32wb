@@ -2423,7 +2423,7 @@
 	(footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ"
 		(layer "F.Cu")
 		(uuid "583c7500-6f00-48e7-b2a1-ec8f24c010d3")
-		(at 142.1 71.5)
+		(at 131.6 70)
 		(descr "Tactile switch, 6.2x6.25 mm, H7.68 mm, J leads, https://www.ckswitches.com/media/1972/ksc6.pdf")
 		(tags "CK C&K SPST")
 		(property "Reference" "SW1"
@@ -5256,7 +5256,7 @@
 	(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "a3e468b8-959e-4b0d-b62b-f15da83c4c3b")
-		(at 136 72.825 90)
+		(at 125.5 71.325 90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R3"
@@ -11093,7 +11093,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "ff401922-96e7-4b33-b2d7-ce7c952973a3")
-		(at 148.25 70.5 -90)
+		(at 137.75 69 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C17"
 			(at 0 -1.43 90)
@@ -11361,7 +11361,7 @@
 	(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "ff98618c-1663-4102-a61d-45ed63cdc84b")
-		(at 150.75 70.5 -90)
+		(at 140.25 69 -90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R4"
