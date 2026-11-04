@@ -9773,7 +9773,7 @@
 		(descr "16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J2"
-			(at 0 -5.645 90)
+			(at -6.25 3 180)
 			(layer "F.SilkS")
 			(uuid "67de74b2-586c-4e46-8c12-51e441a46dca")
 			(effects
