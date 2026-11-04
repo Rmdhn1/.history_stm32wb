@@ -4099,7 +4099,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8d0eb057-367d-480e-b0ca-cd811f820ac3")
-		(at 156.23 26.27 90)
+		(at 151.96 26.27 90)
 		(descr "Through hole angled pin header, 2x03, 1.27mm pitch, 4.0mm pin length, double rows")
 		(tags "Through hole angled pin header THT 2x03 1.27mm double row")
 		(property "Reference" "J4"
@@ -9055,7 +9055,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c184eff7-1bd5-4d30-baf7-f749e97011db")
-		(at 37.885 39.485)
+		(at 108.15 42.15)
 		(descr "Through hole straight pin header, 1x12, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 1.27mm single row")
 		(property "Reference" "J5"
@@ -10379,7 +10379,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e286aef8-00a4-4368-b266-9c96f294790b")
-		(at 33.735 39.485)
+		(at 104 42.15)
 		(descr "Through hole straight pin header, 1x12, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 1.27mm single row")
 		(property "Reference" "J3"
