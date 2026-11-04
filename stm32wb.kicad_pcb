@@ -11598,5 +11598,35 @@
 		(layer "F.Cu")
 		(uuid "52636322-5069-4fcd-a7c1-01ec3dbf04a5")
 	)
+	(gr_line
+		(start 234 61.5)
+		(end 247 54)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "f351fc7e-ad2f-44fb-9828-bc73a589e44a")
+	)
+	(gr_line
+		(start 247 54)
+		(end 247 70)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "82b4ffed-e5ba-46c7-90c7-c5f34605f92d")
+	)
+	(gr_line
+		(start 247 70)
+		(end 234 61.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "77815a68-405c-43e2-8d72-abab771fd42e")
+	)
 	(embedded_fonts no)
 )
