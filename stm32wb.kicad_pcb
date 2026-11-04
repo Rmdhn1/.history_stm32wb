@@ -2937,7 +2937,7 @@
 		(descr "TSOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB)")
 		(tags "TSOT TO_SOT_SMD")
 		(property "Reference" "U3"
-			(at 0 -2.4 0)
+			(at -1 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "cfe4247f-eb37-4b17-8a27-4832300968f6")
 			(effects
@@ -6544,7 +6544,7 @@
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
-			(at 0 -2.4 90)
+			(at -1.5 -3 180)
 			(layer "F.SilkS")
 			(uuid "2b6da222-b37e-481c-b041-786ec0e4695d")
 			(effects
