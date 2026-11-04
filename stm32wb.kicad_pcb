@@ -9694,13 +9694,13 @@
 	(footprint "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 		(layer "F.Cu")
 		(uuid "c97552c7-c852-4980-9ad6-e502cf71cb63")
-		(at 97 29.75 -90)
+		(at 97 31 -90)
 		(descr "16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J2"
 			(at -6.25 3 180)
 			(layer "F.SilkS")
-			(uuid "b85a9a3e-66e2-47dd-ac69-dec2e5d6e2a2")
+			(uuid "2afa7322-a9ca-4d56-a79f-a628b59967b3")
 			(effects
 				(font
 					(size 1 1)
@@ -9712,7 +9712,7 @@
 			(at 0 5 270)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "11816224-cdac-471b-92aa-72281991731d")
+			(uuid "a345125e-19f8-4965-a6a2-2dff0f5a51e3")
 			(effects
 				(font
 					(size 1 1)
@@ -9725,7 +9725,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e58a0c36-5daf-418d-b278-050e21298472")
+			(uuid "d558acab-2969-42e4-b938-a2bc323c98b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9738,7 +9738,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "65e4414a-e059-4922-b020-c724839c6d84")
+			(uuid "678b4bdc-7a05-4fdd-94d2-3ca47aeeae7e")
 			(effects
 				(font
 					(size 1.27 1.27)
