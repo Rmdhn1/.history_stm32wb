@@ -7323,7 +7323,7 @@
 		(descr "QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94)")
 		(tags "QFN NoLead ST_UFQFPN48 Analog_CP-48-13 JEDEC_MO-220-WKKD-4")
 		(property "Reference" "U1"
-			(at 0 -4.83 0)
+			(at -2.1 -4.83 0)
 			(layer "F.SilkS")
 			(uuid "7a0510c4-8602-4f4c-b049-7f88d1dce1d2")
 			(effects
@@ -9503,7 +9503,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "c3d18411-5769-4227-9c3a-408d3a1af7de")
-		(at 146.5 54.225 -90)
+		(at 140.5 51 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C2"
 			(at 0 -1.43 90)
