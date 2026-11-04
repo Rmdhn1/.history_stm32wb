@@ -4105,7 +4105,7 @@
 		(property "Reference" "J4"
 			(at 3.0675 -1.635 90)
 			(layer "F.SilkS")
-			(uuid "e77b8bd8-9d53-421a-a6bd-7388ec6d3307")
+			(uuid "958c1666-b268-4e53-a7a4-26743200bf79")
 			(effects
 				(font
 					(size 1 1)
@@ -4116,7 +4116,7 @@
 		(property "Value" "Conn_01x06_Socket"
 			(at 3.0675 4.175 90)
 			(layer "F.Fab")
-			(uuid "ae630f7a-89fc-4ab8-9148-9bb9c9d89c05")
+			(uuid "faba777c-2766-4d60-8424-739eaed4e74e")
 			(effects
 				(font
 					(size 1 1)
@@ -4128,7 +4128,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "10cae42d-dc3f-43c2-ba8f-761d655d2f49")
+			(uuid "95d2c79c-95f8-486e-9bf0-997c495c7a02")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4139,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "812cc07f-624c-4953-9187-7b64d36543f3")
+			(uuid "c346e700-ae7f-4463-8e35-80cefa18a5e6")
 			(effects
 				(font
 					(size 1.27 1.27)
