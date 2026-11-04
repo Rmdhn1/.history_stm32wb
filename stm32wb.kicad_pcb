@@ -156,7 +156,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "0cf260b5-2553-4b73-9ddb-a6ff8f3ace7b")
-		(at 25.605 51.625)
+		(at 80.5 60)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C12"
 			(at 0 -1.43 0)
@@ -3337,7 +3337,7 @@
 	(footprint "Crystal:Crystal_HC50_Vertical"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 35.105 62.355)
+		(at 80.55 66)
 		(descr "HC-50, Crystal, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf")
 		(property "Reference" "Y1"
 			(at 2.45 -3.52 0)
@@ -5738,7 +5738,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "aebfb3e4-ace8-43b5-b720-83a9049c09d0")
-		(at 25.605 49.115)
+		(at 80.5 57.49)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C11"
 			(at 0 -1.43 0)
