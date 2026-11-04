@@ -3332,13 +3332,13 @@
 			)
 		)
 	)
-	(footprint "Crystal:Crystal_HC50_Vertical"
+	(footprint "Crystal:Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 131.5 50 180)
-		(descr "HC-50, Crystal, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf")
+		(at 129 50 180)
+		(descr "EuroQuartz MQ2, Crystal, 7.0x5.0mm package, SMD, http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf")
 		(property "Reference" "Y1"
-			(at 2.45 -3.52 0)
+			(at 0 -3.7 180)
 			(layer "F.SilkS")
 			(uuid "5c6850e9-d650-48cd-94e6-967901491a3f")
 			(effects
@@ -3349,7 +3349,7 @@
 			)
 		)
 		(property "Value" "32.768kHz"
-			(at 2.45 3.52 0)
+			(at 0 3.7 180)
 			(layer "F.Fab")
 			(uuid "27a83220-7038-4644-ab01-b2a7d9dd18e0")
 			(effects
@@ -3360,7 +3360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83632318-b405-42f2-97db-74adaaf4b0c6")
@@ -3371,7 +3371,7 @@
 			)
 		)
 		(property "Description" "Crystal"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb89c46d-968d-4d0b-a59c-8b80f5152fc5")
@@ -3382,7 +3382,7 @@
 			)
 		)
 		(property "KiLib_Generator" "crystal_resonator_oscillator"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "be329f58-571d-4b0d-bf0b-66853b21e345")
@@ -3398,7 +3398,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92fe6e9f-5b0a-4625-8464-3634877c8f24")
+			(uuid "f1794ae6-1633-4d71-8688-c49e0968ab09")
 			(effects
 				(font
 					(size 1 1)
@@ -3416,11 +3416,21 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 5.65 2.435)
-			(end -0.75 2.435)
+			(start 3.76 -2.76)
+			(end -4.51 -2.76)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4c3da323-df3a-4f82-a4fd-fe1277ca4e39")
+		)
+		(fp_line
+			(start -4.51 2.76)
+			(end 3.76 2.76)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -3429,123 +3439,40 @@
 			(uuid "384cc9b6-e075-47a7-84ea-721060f9cdf6")
 		)
 		(fp_line
-			(start -0.75 -2.435)
-			(end 5.65 -2.435)
+			(start -4.51 -2.76)
+			(end -4.51 2.76)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c3da323-df3a-4f82-a4fd-fe1277ca4e39")
-		)
-		(fp_arc
-			(start 5.65 -2.435)
-			(mid 8.085 0)
-			(end 5.65 2.435)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d8965e70-b8be-4a28-9216-474cdb2bb054")
-		)
-		(fp_arc
-			(start -0.75 2.435)
-			(mid -3.185 0)
-			(end -0.75 -2.435)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "15a2b275-6886-4df8-ab5d-c2fefc348d36")
-		)
-		(fp_line
-			(start 5.65 2.83)
-			(end -0.75 2.83)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "e01d088f-c64e-4b8e-b4ad-e5c017084673")
-		)
-		(fp_line
-			(start -0.75 -2.83)
-			(end 5.65 -2.83)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
 			(uuid "a3288df5-b061-4b94-b787-90bd6ac80b33")
 		)
-		(fp_arc
-			(start 5.65 -2.83)
-			(mid 8.48 0)
-			(end 5.65 2.83)
+		(fp_rect
+			(start -4.5 -3)
+			(end 4.5 3)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
+			(fill no)
 			(layer "F.CrtYd")
-			(uuid "c37be43c-c0be-4322-9cea-44fdd6406489")
+			(uuid "3c07d3f6-e9a3-485b-b21b-16b5c768cff2")
 		)
-		(fp_arc
-			(start -0.75 2.83)
-			(mid -3.58 0)
-			(end -0.75 -2.83)
-			(stroke
-				(width 0.05)
-				(type solid)
+		(fp_poly
+			(pts
+				(xy 3.5 -2.5) (xy 3.5 2.5) (xy -2.5 2.5) (xy -3.5 1.5) (xy -3.5 -2.5)
 			)
-			(layer "F.CrtYd")
-			(uuid "17f167bc-46a1-4c30-a249-37cfdcf58fe5")
-		)
-		(fp_line
-			(start 5.65 2.325)
-			(end -0.75 2.325)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
+			(fill no)
 			(layer "F.Fab")
-			(uuid "4fef9481-3b34-469b-ad86-6ffab5d10d2e")
-		)
-		(fp_line
-			(start -0.75 -2.325)
-			(end 5.65 -2.325)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "b0c3f765-32df-4597-8098-5bc1e2fb0873")
-		)
-		(fp_arc
-			(start 5.65 -2.325)
-			(mid 7.975 0)
-			(end 5.65 2.325)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "106dbba5-c35f-493b-9963-c09c2910a73c")
-		)
-		(fp_arc
-			(start -0.75 2.325)
-			(mid -3.075 0)
-			(end -0.75 -2.325)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "785511d0-5b6a-4887-b2ba-702544f2f1d3")
+			(uuid "256d7b07-7c49-44ca-ace7-b1ae244ed684")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.45 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "713650b8-de41-4862-93f5-67997f0895ac")
 			(effects
@@ -3555,30 +3482,28 @@
 				)
 			)
 		)
-		(pad "1" thru_hole circle
-			(at 0 0 180)
-			(size 2.3 2.3)
-			(drill 1.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+		(pad "1" smd roundrect
+			(at -3.15 0 180)
+			(size 2.2 2.4)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.113636)
 			(net "/LSE OUT")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(uuid "b9927c1d-b915-4ea1-badc-e9a52f2ca2c2")
 		)
-		(pad "2" thru_hole circle
-			(at 4.9 0 180)
-			(size 2.3 2.3)
-			(drill 1.5)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
+		(pad "2" smd roundrect
+			(at 3.15 0 180)
+			(size 2.2 2.4)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.113636)
 			(net "/LSE IN")
 			(pinfunction "2_2")
 			(pintype "passive")
 			(uuid "7d9d67b3-e2d8-4918-8b17-b25fdbeb744b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC50_Vertical.step"
+		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
