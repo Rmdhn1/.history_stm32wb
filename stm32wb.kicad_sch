@@ -9249,7 +9249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Clock:Crystal-SMD-5x3.2mm"
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 			(at 72.39 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -9329,7 +9329,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 154.94 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -10982,7 +10982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Clock:Crystal-SMD-5x3.2mm"
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 			(at 69.85 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -11224,7 +11224,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_SparkFun-Resistor:R_0603_1608Metric"
 			(at 219.202 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -11304,7 +11304,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 			(at 64.77 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11543,7 +11543,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:BNC_PanelMountable_Vertical"
 			(at 34.29 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -11625,7 +11625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 			(at 212.09 57.15 0)
 			(hide yes)
 			(show_name no)
