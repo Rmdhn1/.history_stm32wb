@@ -156,7 +156,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "0cf260b5-2553-4b73-9ddb-a6ff8f3ace7b")
-		(at 127 25.775 -90)
+		(at 125.725 26 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C12"
 			(at 0 -1.43 90)
@@ -623,7 +623,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "37ad1138-7cb1-4269-8de7-183b7a9b3c59")
-		(at 133.5 35.775 -90)
+		(at 132.225 36 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C7"
 			(at 0 -1.43 90)
@@ -891,7 +891,7 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3eb3f3bb-5394-482f-9e97-8e4de8dd4cd3")
-		(at 148.7 29.275 180)
+		(at 147.425 29.5 180)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L2"
@@ -1319,7 +1319,7 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "51cc4fc7-52b4-408b-9eb0-eb31431626ff")
-		(at 153.2 31.275 90)
+		(at 151.925 31.5 90)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L3"
@@ -1479,7 +1479,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "525936dc-522b-436d-8694-bee256f5272f")
-		(at 146.8 37.685051 -90)
+		(at 145.525 37.910051 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C13"
 			(at 0 -1.43 90)
@@ -1747,7 +1747,7 @@
 	(footprint "footprints:DLF-4_1P6X0P8"
 		(layer "F.Cu")
 		(uuid "55d7d2df-5fcc-45d7-be7e-a985c88e2c39")
-		(at 149.6904 33.685051)
+		(at 148.4154 33.910051)
 		(tags "DLF162500LT-5028A1 ")
 		(property "Reference" "FLT1"
 			(at 0 0 0)
@@ -2155,7 +2155,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "561408b0-265f-4f94-896a-c38b3c49f663")
-		(at 142.2 27.275 -90)
+		(at 140.925 27.5 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C1"
 			(at 0 -1.43 90)
@@ -2665,7 +2665,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "5a660e5d-20ef-456d-8d95-ee5d62d861bb")
-		(at 131 35.775 90)
+		(at 129.725 36 90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C5"
 			(at 0 -1.43 90)
@@ -3335,7 +3335,7 @@
 	(footprint "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 132.25 25.775)
+		(at 130.975 26)
 		(descr "MicroCrystal CC7V-T1A/CM7V-T1A, Crystal, 3.2x1.5mm package, SMD, http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf")
 		(property "Reference" "Y1"
 			(at 0 -1.95 0)
@@ -3518,7 +3518,7 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7f36ee8a-9643-4f0b-8568-433a672386a3")
-		(at 150.8 37.185051)
+		(at 149.525 37.410051)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L1"
@@ -4099,7 +4099,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8d0eb057-367d-480e-b0ca-cd811f820ac3")
-		(at 148.26 26.455051 90)
+		(at 146.985 26.680051 90)
 		(descr "Through hole angled pin header, 2x03, 1.27mm pitch, 4.0mm pin length, double rows")
 		(tags "Through hole angled pin header THT 2x03 1.27mm double row")
 		(property "Reference" "J4"
@@ -4913,7 +4913,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "a3af34d9-3e68-42a7-a782-3c1e6c622955")
-		(at 154.8 37.685051 -90)
+		(at 153.525 37.910051 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C14"
 			(at 0 -1.43 90)
@@ -5380,7 +5380,7 @@
 	(footprint "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm"
 		(layer "F.Cu")
 		(uuid "ae7a0f99-522a-42dc-80c4-4706644fc42e")
-		(at 140.925 35.5 -90)
+		(at 139.65 35.725 -90)
 		(descr "Miniature Crystal Clock Oscillator ECS 2520MV series, https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf")
 		(tags "Miniature Crystal Clock Oscillator ECS 2520MV series SMD SMT HCMOS")
 		(property "Reference" "Y2"
@@ -5661,7 +5661,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "aebfb3e4-ace8-43b5-b720-83a9049c09d0")
-		(at 129 25.775 -90)
+		(at 127.725 26 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C11"
 			(at 0 -1.43 90)
@@ -5929,7 +5929,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "b0bc80bf-10a2-4b68-9dce-68c2ef608cb4")
-		(at 129 32.775)
+		(at 127.725 33)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C6"
 			(at 0 -0.43 0)
@@ -6197,7 +6197,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "b3520830-ea82-4603-b46a-5b7397304d66")
-		(at 144.425 29.275 180)
+		(at 143.15 29.5 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C10"
 			(at 0 -1.43 0)
@@ -6827,7 +6827,7 @@
 	(footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 		(layer "F.Cu")
 		(uuid "b7e543fe-ccc6-4713-902b-6564a30f3c5f")
-		(at 160.3 31.725051 -90)
+		(at 159.025 31.950051 -90)
 		(descr "http://www.farnell.com/datasheets/612848.pdf")
 		(tags "BNC Amphenol Horizontal")
 		(property "Reference" "J1"
@@ -7242,7 +7242,7 @@
 	(footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 		(layer "F.Cu")
 		(uuid "ba0f89ba-c146-4731-8129-4067101488de")
-		(at 136.8 30.675 -45)
+		(at 135.525 30.9 -45)
 		(descr "QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94)")
 		(tags "QFN NoLead ST_UFQFPN48 Analog_CP-48-13 JEDEC_MO-220-WKKD-4")
 		(property "Reference" "U1"
@@ -8519,7 +8519,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "be17e23d-d44e-4413-8177-b084fcd19f8a")
-		(at 129 28.775)
+		(at 127.725 29)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C4"
 			(at 0 0.07 0)
@@ -8787,7 +8787,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "c1832f55-c13f-4c01-9285-c99ee726a499")
-		(at 129 30.775)
+		(at 127.725 31)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C3"
 			(at 0 -1.43 0)
@@ -9055,7 +9055,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c184eff7-1bd5-4d30-baf7-f749e97011db")
-		(at 127.87 39.185051 90)
+		(at 126.595 39.410051 90)
 		(descr "Through hole straight pin header, 1x12, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 1.27mm single row")
 		(property "Reference" "J5"
@@ -9426,7 +9426,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "c3d18411-5769-4227-9c3a-408d3a1af7de")
-		(at 139.5 24.775 180)
+		(at 138.225 25 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C2"
 			(at 0 -1.43 0)
@@ -10379,7 +10379,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x12_P1.27mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e286aef8-00a4-4368-b266-9c96f294790b")
-		(at 128.1 22.185051 90)
+		(at 126.825 22.410051 90)
 		(descr "Through hole straight pin header, 1x12, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x12 1.27mm single row")
 		(property "Reference" "J3"
@@ -10750,7 +10750,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "fa38d571-7d5f-438c-8080-c7094a71943a")
-		(at 144.425 31.295 180)
+		(at 143.15 31.52 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C8"
 			(at 0 -1.43 0)
