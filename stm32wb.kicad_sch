@@ -7470,7 +7470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Clock:Crystal-SMD-5x3.2mm"
+		(property "Footprint" "Crystal:Crystal_HC50_Vertical"
 			(at 63.5 88.9 0)
 			(hide yes)
 			(show_name no)
