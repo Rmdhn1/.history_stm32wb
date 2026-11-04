@@ -6827,13 +6827,13 @@
 	(footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 		(layer "F.Cu")
 		(uuid "b7e543fe-ccc6-4713-902b-6564a30f3c5f")
-		(at 159.025 31.950051 -90)
+		(at 158.95 31 -90)
 		(descr "http://www.farnell.com/datasheets/612848.pdf")
 		(tags "BNC Amphenol Horizontal")
 		(property "Reference" "J1"
 			(at 0 4 90)
 			(layer "F.SilkS")
-			(uuid "9685b666-cb71-49b4-9bfd-5efedee347c7")
+			(uuid "b1be03d0-6fd8-424c-a3d3-676ec0defe34")
 			(effects
 				(font
 					(size 1 1)
@@ -6844,7 +6844,7 @@
 		(property "Value" "Conn_Coaxial"
 			(at 0 6 90)
 			(layer "F.Fab")
-			(uuid "99b99d4d-9f18-4c3f-a7a8-a932a246aea9")
+			(uuid "c73e2e36-7256-414a-bfd3-68a05ec74777")
 			(effects
 				(font
 					(size 1 1)
@@ -6857,7 +6857,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "530a02e7-f34c-4049-8517-7b4993ee22aa")
+			(uuid "d0368fe2-b7bf-4b92-8780-dab778033f45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,7 +6870,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d16efc2e-7069-43d7-be02-643b0b7ffdf1")
+			(uuid "045282d0-c099-46ed-93ab-fbbc43caf18d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11484,7 +11484,7 @@
 	)
 	(gr_rect
 		(start 95.5 20)
-		(end 172 41.5)
+		(end 173.5 41.5)
 		(stroke
 			(width 0.05)
 			(type default)
