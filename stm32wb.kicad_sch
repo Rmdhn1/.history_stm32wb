@@ -5768,6 +5768,12 @@
 		(uuid "eefb51cd-bda7-4c58-b7ec-beca83cd1489")
 	)
 	(junction
+		(at 218.44 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f091bbe8-e9eb-4311-9883-7aec8a600101")
+	)
+	(junction
 		(at 96.52 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6442,6 +6448,16 @@
 			(type default)
 		)
 		(uuid "95e88b73-4464-4a4c-b34a-a3d435415d05")
+	)
+	(wire
+		(pts
+			(xy 218.44 100.33) (xy 218.44 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "969807be-8486-4594-af7f-4f13dac3009a")
 	)
 	(wire
 		(pts
@@ -12307,7 +12323,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 218.4389 101.4574 0)
+		(at 218.44 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12318,7 +12334,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb0f7f27-6c15-43a1-b594-2e039e0c88a7")
 		(property "Reference" "#PWR022"
-			(at 218.4389 105.2674 0)
+			(at 218.44 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12329,7 +12345,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 218.4389 96.3774 0)
+			(at 218.44 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12339,7 +12355,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Diodes_UDFN3810-9_TYPE_B"
-			(at 218.4389 101.4574 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12350,7 +12366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.4389 101.4574 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12361,7 +12377,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 218.4389 101.4574 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
