@@ -9135,7 +9135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Clock:Crystal-SMD-5x3.2mm"
+		(property "Footprint" "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm"
 			(at 86.36 63.5 0)
 			(hide yes)
 			(show_name no)
