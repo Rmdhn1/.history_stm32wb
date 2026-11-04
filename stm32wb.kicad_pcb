@@ -11557,6 +11557,36 @@
 			)
 		)
 	)
+	(gr_line
+		(start 210.5 54)
+		(end 223.5 62.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "2c96cb05-28b0-4742-824d-d33533598fc5")
+	)
+	(gr_line
+		(start 210.5 70)
+		(end 210.5 54)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "81b19006-f5b7-460c-b50e-cb314c2575be")
+	)
+	(gr_line
+		(start 223.5 62.5)
+		(end 210.5 70)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "6c8db54d-0f1a-4159-bd0c-fd77940a9b91")
+	)
 	(gr_circle
 		(center 229 85.5)
 		(end 210 70)
