@@ -1747,7 +1747,7 @@
 	(footprint "footprints:DLF-4_1P6X0P8"
 		(layer "F.Cu")
 		(uuid "55d7d2df-5fcc-45d7-be7e-a985c88e2c39")
-		(at 126 95.7714)
+		(at 137 103.2714)
 		(tags "DLF162500LT-5028A1 ")
 		(property "Reference" "FLT1"
 			(at 0 0 0)
