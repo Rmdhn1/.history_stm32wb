@@ -6520,10 +6520,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0eb8f52d-a5f4-41a2-8f28-7fb13f24bce4")
 		(property "Reference" "R5"
-			(at 162.56 62.23 90)
+			(at 162.56 62.484 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6533,7 +6532,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 162.56 64.77 90)
+			(at 162.56 65.024 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
