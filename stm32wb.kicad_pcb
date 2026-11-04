@@ -1319,11 +1319,11 @@
 	(footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "51cc4fc7-52b4-408b-9eb0-eb31431626ff")
-		(at 154 56)
+		(at 152.5 57 90)
 		(descr "Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "inductor handsolder")
 		(property "Reference" "L3"
-			(at 0 -1.9 0)
+			(at 0 -1.9 90)
 			(layer "F.SilkS")
 			(uuid "2a0f82ba-1ab0-4cc4-a238-7cac15b77f63")
 			(effects
@@ -1334,7 +1334,7 @@
 			)
 		)
 		(property "Value" "L"
-			(at 0 1.9 0)
+			(at 0 1.9 90)
 			(layer "F.Fab")
 			(uuid "00917c19-2f43-45b8-8686-95ef55b387d3")
 			(effects
@@ -1345,7 +1345,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0f880cd7-461c-43cf-9a3d-07f0c393b704")
@@ -1356,7 +1356,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a8490ca-c050-4b4a-afe9-1d2b0d55e40c")
@@ -1367,7 +1367,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "38ac33d2-59fb-4d45-9d3b-433c909591f3")
@@ -1433,7 +1433,7 @@
 			(uuid "f97a3fe4-56f2-4ca3-9d21-12b2a11a7d07")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "b777d11c-d54d-4dc9-bb5f-52218995de90")
 			(effects
@@ -1444,7 +1444,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -1.6625 0)
+			(at -1.6625 0 90)
 			(size 1.225 1.9)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.204082)
@@ -1454,7 +1454,7 @@
 			(uuid "cfd27a20-7395-4d87-af98-5199df6fffeb")
 		)
 		(pad "2" smd roundrect
-			(at 1.6625 0)
+			(at 1.6625 0 90)
 			(size 1.225 1.9)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.204082)
