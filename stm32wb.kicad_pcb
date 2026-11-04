@@ -1747,7 +1747,7 @@
 	(footprint "footprints:DLF-4_1P6X0P8"
 		(layer "F.Cu")
 		(uuid "55d7d2df-5fcc-45d7-be7e-a985c88e2c39")
-		(at 24 58)
+		(at 140.839766 123.339765)
 		(tags "DLF162500LT-5028A1 ")
 		(property "Reference" "FLT1"
 			(at 0 0 0)
@@ -6904,7 +6904,7 @@
 	(footprint "Connector_Coaxial:BNC_PanelMountable_Vertical"
 		(layer "F.Cu")
 		(uuid "b7e543fe-ccc6-4713-902b-6564a30f3c5f")
-		(at 41.860234 28.160235)
+		(at 158.7 93.5)
 		(descr "Panel-mountable BNC connector mounted through PCB, vertical")
 		(tags "BNC connector")
 		(property "Reference" "J1"
