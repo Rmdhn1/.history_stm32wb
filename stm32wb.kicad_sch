@@ -6977,7 +6977,7 @@
 		)
 		(uuid "71e5d6cb-d9a6-43df-b5a0-dffc01b4fb15")
 	)
-	(label "HSE"
+	(label "HSE IN"
 		(at 96.52 60.96 0)
 		(effects
 			(font
