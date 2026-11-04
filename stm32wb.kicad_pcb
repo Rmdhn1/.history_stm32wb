@@ -2160,7 +2160,7 @@
 		(property "Reference" "C1"
 			(at 0 -1.43 0)
 			(layer "F.Fab")
-			(uuid "6a70cd64-674f-41c4-833b-a261802bebb8")
+			(uuid "9fa26ef8-0909-4f81-9e7b-9dd013ff97d3")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2172,7 +2172,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "b9f18cb6-5533-4c0f-a754-c4b97d6321bf")
+			(uuid "e70dc165-bf14-4e01-b656-19a97c54e26d")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2186,7 +2186,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9067c6ed-44ae-4ef3-901d-c7ffccb5828f")
+			(uuid "483f779c-b2eb-47ed-ae29-fd7e67c50f4f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2199,7 +2199,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "60160665-5ba1-4aa9-9b18-79fd4381b5e3")
+			(uuid "382808fe-798b-4d01-b2c5-232aa5255108")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7149,7 +7149,7 @@
 	(footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 		(layer "F.Cu")
 		(uuid "ba0f89ba-c146-4731-8129-4067101488de")
-		(at 36.8 71.2)
+		(at 139.1 56.9)
 		(descr "QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94)")
 		(tags "QFN NoLead ST_UFQFPN48 Analog_CP-48-13 JEDEC_MO-220-WKKD-4")
 		(property "Reference" "U1"
