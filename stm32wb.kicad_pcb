@@ -9692,9 +9692,10 @@
 		)
 	)
 	(footprint "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "c97552c7-c852-4980-9ad6-e502cf71cb63")
-		(at 97 31 -90)
+		(at 97.895 31 -90)
 		(descr "16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J2"
