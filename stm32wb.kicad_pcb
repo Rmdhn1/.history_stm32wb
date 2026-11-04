@@ -2429,7 +2429,7 @@
 		(property "Reference" "SW1"
 			(at 0 4.24 0)
 			(layer "F.SilkS")
-			(uuid "163e78e9-e08f-4154-ab79-954d27d620a1")
+			(uuid "4d76651c-d923-4bb7-8e97-4a61cad0b6fb")
 			(effects
 				(font
 					(size 1 1)
@@ -2440,7 +2440,7 @@
 		(property "Value" "SW_SPST"
 			(at 0 -4.23 0)
 			(layer "F.Fab")
-			(uuid "72bec228-f14b-4784-af6f-700f4ee6ffb8")
+			(uuid "e4e83c90-477a-4a59-ac7c-8c2515f23f71")
 			(effects
 				(font
 					(size 1 1)
@@ -2453,7 +2453,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "98be8528-eefc-4358-a6b8-3fbdaf31b45c")
+			(uuid "3e2d7acd-e3e8-4b90-90a7-ddf2159f9e86")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2466,7 +2466,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5d3976f9-8d0d-411c-8d2f-4100d3fa612e")
+			(uuid "dd37b2df-14d4-4c57-9175-fc79097d9c40")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6833,7 +6833,7 @@
 		(property "Reference" "J1"
 			(at 0 4 90)
 			(layer "F.SilkS")
-			(uuid "b1be03d0-6fd8-424c-a3d3-676ec0defe34")
+			(uuid "78aba78e-def5-438a-8d31-9699f99a1843")
 			(effects
 				(font
 					(size 1 1)
@@ -6844,7 +6844,7 @@
 		(property "Value" "Conn_Coaxial"
 			(at 0 6 90)
 			(layer "F.Fab")
-			(uuid "c73e2e36-7256-414a-bfd3-68a05ec74777")
+			(uuid "025cc4b1-e0bb-4c01-913a-3247337aa2ee")
 			(effects
 				(font
 					(size 1 1)
@@ -6857,7 +6857,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d0368fe2-b7bf-4b92-8780-dab778033f45")
+			(uuid "c7332ca0-260c-4df6-abe9-889f9822db92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,7 +6870,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "045282d0-c099-46ed-93ab-fbbc43caf18d")
+			(uuid "8f5d326d-1fbc-48e3-b079-9dab1ff78cc9")
 			(effects
 				(font
 					(size 1.27 1.27)
