@@ -11557,5 +11557,16 @@
 			)
 		)
 	)
+	(gr_circle
+		(center 229 85.5)
+		(end 210 70)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Cu")
+		(uuid "52636322-5069-4fcd-a7c1-01ec3dbf04a5")
+	)
 	(embedded_fonts no)
 )
