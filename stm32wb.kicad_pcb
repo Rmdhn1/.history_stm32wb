@@ -8977,7 +8977,7 @@
 			)
 		)
 		(property "Value" "Conn_01x12_Socket"
-			(at -4.885 26.015 0)
+			(at 0.115 16.015 0)
 			(layer "F.Fab")
 			(uuid "c00af59d-37cc-40aa-92e9-ea72951d87f3")
 			(effects
