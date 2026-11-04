@@ -2950,7 +2950,7 @@
 			)
 		)
 		(property "Value" "MIC5365-3.3YD5"
-			(at 0 2.4 0)
+			(at 47.115 1.775 0)
 			(layer "F.Fab")
 			(uuid "6ff8525e-016d-4074-976f-49e9a6a75733")
 			(effects
@@ -3977,7 +3977,7 @@
 	(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "8c2c6164-7acf-43b2-a8f3-fd9176886ba3")
-		(at 48.885 28.135)
+		(at 109 37.01)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R2"
@@ -6542,7 +6542,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "F.Cu")
 		(uuid "b3aff5fc-bc20-4c81-bcf4-351722429071")
-		(at 94 19.5 -90)
+		(at 107 29 -90)
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
@@ -9601,7 +9601,7 @@
 	(footprint "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 		(layer "F.Cu")
 		(uuid "c97552c7-c852-4980-9ad6-e502cf71cb63")
-		(at 84 20 -90)
+		(at 97 29.5 -90)
 		(descr "16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J2"
@@ -10087,7 +10087,7 @@
 	(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "e2819b71-21ae-4ae3-9045-e82ce00a9154")
-		(at 48.885 25.625)
+		(at 109 34.5)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R1"
