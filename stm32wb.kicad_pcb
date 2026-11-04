@@ -6006,7 +6006,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "b0bc80bf-10a2-4b68-9dce-68c2ef608cb4")
-		(at 133 57.5)
+		(at 132.725 55.5)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C6"
 			(at 0 -1.43 0)
@@ -8869,7 +8869,7 @@
 		(property "Reference" "C3"
 			(at 0 -1.43 0)
 			(layer "F.Fab")
-			(uuid "e5ce1936-2de8-4f9e-b561-7dadffe6ee2d")
+			(uuid "566eeb3b-9904-4940-851a-e72d044e9691")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -8881,7 +8881,7 @@
 		(property "Value" "100nF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "3f5efd91-1dde-45a9-81b5-8c0dcb2e2fe7")
+			(uuid "00cbc4be-2fc6-421f-b5d7-6d3d3a77f688")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -8895,7 +8895,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "377563be-1e9e-481f-9af0-44ce2a5fe58e")
+			(uuid "4728c9ac-b352-4a6a-b1df-95c51fea1b54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8908,7 +8908,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8bbe6bb4-2a1b-44b7-909b-5b1d11b55bf1")
+			(uuid "961c793f-9bd8-4bf5-b9c7-818bab3d5ada")
 			(effects
 				(font
 					(size 1.27 1.27)
