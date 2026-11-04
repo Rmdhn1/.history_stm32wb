@@ -10812,7 +10812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "footprints:DLF-4_1P6X0P8"
 			(at 49.53 66.04 0)
 			(hide yes)
 			(show_name no)
