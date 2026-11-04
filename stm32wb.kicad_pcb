@@ -3332,13 +3332,13 @@
 			)
 		)
 	)
-	(footprint "Crystal:Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm"
+	(footprint "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm"
 		(layer "F.Cu")
 		(uuid "7c3f64eb-5f3d-44fd-ac30-03c523945d6c")
-		(at 129 50 180)
-		(descr "EuroQuartz MQ2, Crystal, 7.0x5.0mm package, SMD, http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf")
+		(at 129.5 51 180)
+		(descr "MicroCrystal CC7V-T1A/CM7V-T1A, Crystal, 3.2x1.5mm package, SMD, http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf")
 		(property "Reference" "Y1"
-			(at 0 -3.7 180)
+			(at 0 -1.95 180)
 			(layer "F.SilkS")
 			(uuid "5c6850e9-d650-48cd-94e6-967901491a3f")
 			(effects
@@ -3349,7 +3349,7 @@
 			)
 		)
 		(property "Value" "32.768kHz"
-			(at 0 3.7 180)
+			(at 0 1.95 180)
 			(layer "F.Fab")
 			(uuid "27a83220-7038-4644-ab01-b2a7d9dd18e0")
 			(effects
@@ -3398,7 +3398,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1794ae6-1633-4d71-8688-c49e0968ab09")
+			(uuid "17fcca06-518d-4a66-9007-f84dc2eed223")
 			(effects
 				(font
 					(size 1 1)
@@ -3419,18 +3419,8 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 3.76 -2.76)
-			(end -4.51 -2.76)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "4c3da323-df3a-4f82-a4fd-fe1277ca4e39")
-		)
-		(fp_line
-			(start -4.51 2.76)
-			(end 3.76 2.76)
+			(start -0.49 1.01)
+			(end 0.49 1.01)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -3439,8 +3429,8 @@
 			(uuid "384cc9b6-e075-47a7-84ea-721060f9cdf6")
 		)
 		(fp_line
-			(start -4.51 -2.76)
-			(end -4.51 2.76)
+			(start -0.49 -1.01)
+			(end 0.49 -1.01)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -3448,9 +3438,19 @@
 			(layer "F.SilkS")
 			(uuid "a3288df5-b061-4b94-b787-90bd6ac80b33")
 		)
+		(fp_line
+			(start -2.01 -0.9)
+			(end -2.01 0.9)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4c3da323-df3a-4f82-a4fd-fe1277ca4e39")
+		)
 		(fp_rect
-			(start -4.5 -3)
-			(end 4.5 3)
+			(start -2.1 -1.25)
+			(end 2.1 1.25)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -3461,7 +3461,7 @@
 		)
 		(fp_poly
 			(pts
-				(xy 3.5 -2.5) (xy 3.5 2.5) (xy -2.5 2.5) (xy -3.5 1.5) (xy -3.5 -2.5)
+				(xy 1.6 -0.75) (xy 1.6 0.75) (xy -1.225 0.75) (xy -1.6 0.375) (xy -1.6 -0.75)
 			)
 			(stroke
 				(width 0.1)
@@ -3477,33 +3477,33 @@
 			(uuid "713650b8-de41-4862-93f5-67997f0895ac")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.8 0.8)
+					(thickness 0.12)
 				)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -3.15 0 180)
-			(size 2.2 2.4)
+			(at -1.25 0 180)
+			(size 1 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.113636)
+			(roundrect_rratio 0.25)
 			(net "/LSE OUT")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(uuid "b9927c1d-b915-4ea1-badc-e9a52f2ca2c2")
 		)
 		(pad "2" smd roundrect
-			(at 3.15 0 180)
-			(size 2.2 2.4)
+			(at 1.25 0 180)
+			(size 1 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.113636)
+			(roundrect_rratio 0.25)
 			(net "/LSE IN")
 			(pinfunction "2_2")
 			(pintype "passive")
 			(uuid "7d9d67b3-e2d8-4918-8b17-b25fdbeb744b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
