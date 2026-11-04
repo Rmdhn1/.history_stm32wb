@@ -7492,7 +7492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC50_Vertical"
+		(property "Footprint" "Crystal:Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm"
 			(at 63.5 88.9 0)
 			(hide yes)
 			(show_name no)
