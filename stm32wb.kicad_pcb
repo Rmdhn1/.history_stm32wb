@@ -7149,7 +7149,7 @@
 	(footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm"
 		(layer "F.Cu")
 		(uuid "ba0f89ba-c146-4731-8129-4067101488de")
-		(at 44.99 52.605)
+		(at 36.8 71.2)
 		(descr "QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94)")
 		(tags "QFN NoLead ST_UFQFPN48 Analog_CP-48-13 JEDEC_MO-220-WKKD-4")
 		(property "Reference" "U1"
@@ -8977,7 +8977,7 @@
 			)
 		)
 		(property "Value" "Conn_01x12_Socket"
-			(at 0 15.715 0)
+			(at -4.885 26.015 0)
 			(layer "F.Fab")
 			(uuid "c00af59d-37cc-40aa-92e9-ea72951d87f3")
 			(effects
