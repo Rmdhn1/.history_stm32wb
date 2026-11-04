@@ -6987,6 +6987,16 @@
 		)
 		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
 	)
+	(label "HSE"
+		(at 96.52 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b2f0138-f6ce-4529-b118-6e09a0a58c21")
+	)
 	(label "SWD_DIO"
 		(at 149.86 83.82 0)
 		(effects
