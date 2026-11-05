@@ -6059,6 +6059,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 90.17) (xy 212.09 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51747605-c9ea-4095-bce6-8da20d7f96b6")
+	)
+	(wire
+		(pts
 			(xy 116.84 34.29) (xy 116.84 39.37)
 		)
 		(stroke
@@ -6256,6 +6266,16 @@
 			(type default)
 		)
 		(uuid "74f682d4-c286-427c-9047-1dbbbfd5767a")
+	)
+	(wire
+		(pts
+			(xy 214.63 90.17) (xy 212.09 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75631f30-0f48-482e-a3dc-e6907723419f")
 	)
 	(wire
 		(pts
@@ -6928,7 +6948,7 @@
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
 	)
 	(label "USB_DM"
-		(at 212.09 90.17 0)
+		(at 214.63 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
