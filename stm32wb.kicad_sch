@@ -6887,7 +6887,7 @@
 		)
 		(uuid "075735c1-8367-4632-be2d-b38a9a63086c")
 	)
-	(label "USB_DP"
+	(label "USB_P"
 		(at 207.01 90.17 180)
 		(effects
 			(font
