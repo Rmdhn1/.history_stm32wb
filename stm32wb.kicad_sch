@@ -5630,12 +5630,6 @@
 		(uuid "6f798e00-e73b-4ff2-9ca2-d7f3ad25a8c3")
 	)
 	(junction
-		(at 209.55 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71415f43-25d3-485c-b09d-2bd06e7d6171")
-	)
-	(junction
 		(at 77.47 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5892,16 +5886,6 @@
 			(type default)
 		)
 		(uuid "13e9c85a-ec26-4216-be0a-52f65529917c")
-	)
-	(wire
-		(pts
-			(xy 200.66 74.93) (xy 209.55 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17922ef7-66fe-4571-a68d-83cd096daee7")
 	)
 	(wire
 		(pts
@@ -6445,16 +6429,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 85.09) (xy 200.66 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d7ddf31-0a89-4943-a321-33157a68a412")
-	)
-	(wire
-		(pts
 			(xy 184.15 101.6) (xy 195.58 101.6)
 		)
 		(stroke
@@ -6932,16 +6906,6 @@
 			(justify left bottom)
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
-	)
-	(label "USB_DP"
-		(at 209.55 71.12 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "71e5d6cb-d9a6-43df-b5a0-dffc01b4fb15")
 	)
 	(label "HSE IN"
 		(at 96.52 60.96 0)
