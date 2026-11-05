@@ -5889,6 +5889,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 90.17) (xy 209.55 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "166d948d-e69c-42c2-a040-02900b73f4bf")
+	)
+	(wire
+		(pts
 			(xy 33.02 34.29) (xy 71.12 34.29)
 		)
 		(stroke
@@ -6439,6 +6449,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 90.17) (xy 209.55 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13db6fa-d91c-40d5-82a6-becf196538fe")
+	)
+	(wire
+		(pts
 			(xy 76.2 62.23) (xy 76.2 72.39)
 		)
 		(stroke
@@ -6847,6 +6867,16 @@
 		)
 		(uuid "075735c1-8367-4632-be2d-b38a9a63086c")
 	)
+	(label "USB_DP"
+		(at 207.01 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1c2bf0c9-1ee9-4f99-836d-d0b627a48336")
+	)
 	(label "SWD_CLK"
 		(at 149.86 86.36 0)
 		(effects
@@ -6887,16 +6917,6 @@
 		)
 		(uuid "4ae33e49-5f98-4ba7-94a4-5f4e095d7138")
 	)
-	(label "USB_DM"
-		(at 212.09 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "503efd16-882c-4984-b874-104cde39a19f")
-	)
 	(label "SWD"
 		(at 149.86 101.6 0)
 		(effects
@@ -6906,6 +6926,16 @@
 			(justify left bottom)
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
+	)
+	(label "USB_DM"
+		(at 212.09 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6eeeeeaa-d724-4cdb-a9e0-4670763c0bca")
 	)
 	(label "HSE IN"
 		(at 96.52 60.96 0)
