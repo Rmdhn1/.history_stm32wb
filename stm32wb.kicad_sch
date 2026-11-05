@@ -6947,7 +6947,7 @@
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
 	)
-	(label "USB_DM"
+	(label "USB_N"
 		(at 214.63 90.17 0)
 		(effects
 			(font
