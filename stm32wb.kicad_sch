@@ -6937,6 +6937,16 @@
 		)
 		(uuid "3e6cc3e8-5e1d-46ec-b7d8-e0630506671a")
 	)
+	(label "PA9"
+		(at 147.32 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46484021-5ffd-4c41-835b-20783f06a5ac")
+	)
 	(label "SWD_NRST"
 		(at 100.33 50.8 180)
 		(effects
@@ -7026,6 +7036,16 @@
 			(justify right bottom)
 		)
 		(uuid "83974864-6fde-4fa2-82a3-2d016b79d2b6")
+	)
+	(label "PA1"
+		(at 147.32 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8813e1d7-3d70-43dc-b831-ecf972976aa3")
 	)
 	(label "HSE OUT"
 		(at 96.52 63.5 0)
