@@ -6947,6 +6947,16 @@
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
 	)
+	(label "USBD_P"
+		(at 212.09 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a131508-d759-4202-9a13-dffa09a6aff9")
+	)
 	(label "USB_N"
 		(at 214.63 90.17 0)
 		(effects
