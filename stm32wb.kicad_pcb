@@ -8176,7 +8176,7 @@
 			)
 		)
 		(property "Value" "Conn_01x13_Socket"
-			(at 0 16.985 90)
+			(at -3.25 8.2 180)
 			(layer "F.Fab")
 			(uuid "ee3a057a-5f7d-4ed9-9163-babc0cdf5681")
 			(effects
@@ -10306,7 +10306,7 @@
 		(property "Reference" "J3"
 			(at 0 -1.745 90)
 			(layer "F.SilkS")
-			(uuid "21b76292-f987-4e4a-a187-8d3c7e6694ae")
+			(uuid "481b320c-f7f1-4b48-a544-c9a991538890")
 			(effects
 				(font
 					(size 1 1)
@@ -10317,7 +10317,7 @@
 		(property "Value" "Conn_01x12_Socket"
 			(at 3.410051 7.675 180)
 			(layer "F.Fab")
-			(uuid "d4482010-bf8a-4570-b16b-e62bf6095ff6")
+			(uuid "ac04eab7-6379-4330-aa61-b42a5a4eb5bc")
 			(effects
 				(font
 					(size 1 1)
@@ -10329,7 +10329,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a950cc37-ab67-4b09-93d5-3171c94e5164")
+			(uuid "618f74b8-ff2c-44f0-a6d5-d4718b364a8d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10340,7 +10340,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08572422-406c-4b96-8dcf-6d57cfe9069c")
+			(uuid "cd252587-76d5-4648-abd9-131ffc236090")
 			(effects
 				(font
 					(size 1.27 1.27)
