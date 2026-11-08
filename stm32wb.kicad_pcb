@@ -11867,14 +11867,6 @@
 		(uuid "78d773b4-7fe0-45dd-a759-a5d2653d85d5")
 	)
 	(segment
-		(start 134.538051 29.910051)
-		(end 134.535051 29.910051)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "GND")
-		(uuid "94183cc7-c81b-454f-9ebf-e4dd298a1dd5")
-	)
-	(segment
 		(start 133.549579 30.895522)
 		(end 133.545101 30.9)
 		(width 0.2)
