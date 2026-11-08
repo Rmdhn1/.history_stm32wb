@@ -6652,7 +6652,7 @@
 			)
 		)
 		(property "Value" "Conn_Coaxial"
-			(at 0 5 270)
+			(at 0 5 90)
 			(layer "F.Fab")
 			(uuid "edd65f81-de4c-4427-a39f-f5963e961245")
 			(effects
@@ -6898,7 +6898,7 @@
 			(uuid "01913423-f4cc-471b-99eb-7533542ec149")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "9c083e29-57fa-4f10-ae95-083196c6d2e2")
 			(effects
@@ -6972,7 +6972,7 @@
 			(uuid "3fca014a-f7c2-4a11-a5cd-8356b67c2fa5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_BAT_Wireless_BWSMA-KWE-Z001.step"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA-TH_5P-L14.5-W6.0-H9.6_BWSMA-KWE-Z001.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
