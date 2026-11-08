@@ -12981,6 +12981,22 @@
 		(net "/USB_N")
 		(uuid "fe6a9a4b-ef56-4e73-9fc3-73c0d57e978f")
 	)
+	(via
+		(at 102.25 34.25)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "Net-(J2-GND-PadA1)")
+		(uuid "5f713e8f-cca8-4aa6-ad42-a037bdd191c9")
+	)
+	(via
+		(at 102.25 27.75)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "Net-(J2-GND-PadA1)")
+		(uuid "77aafede-c4f6-453f-9d35-9e051a92361f")
+	)
 	(segment
 		(start 100 37)
 		(end 105 37)
