@@ -8286,6 +8286,7 @@
 			(drill 0.35)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
+			(clearance 0)
 			(uuid "9c6baa5a-6315-494d-bae5-235050ffc8cc")
 		)
 		(pad "49" thru_hole circle
