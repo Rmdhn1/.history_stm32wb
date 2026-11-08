@@ -12596,15 +12596,7 @@
 		(width 0.355542)
 		(layer "F.Cu")
 		(net "Net-(FLT1-OUT)")
-		(uuid "22960705-2abd-46e2-bb0c-b6a39885a24a")
-	)
-	(segment
-		(start 155.2 34.75)
-		(end 158.95 31)
-		(width 0.355542)
-		(layer "F.Cu")
-		(net "Net-(FLT1-OUT)")
-		(uuid "c1794a16-a2bd-4b3c-bd21-290149ffbbf6")
+		(uuid "a9f8d7f5-a9ce-4784-81c8-5e8ce2b97693")
 	)
 	(segment
 		(start 149.025 33.910051)
@@ -12612,7 +12604,15 @@
 		(width 0.355542)
 		(layer "F.Cu")
 		(net "Net-(FLT1-OUT)")
-		(uuid "e4aa995f-ed82-49d7-a44b-ce15fc023ea4")
+		(uuid "ca938754-6bec-41a5-b827-ffcf9e1dedf2")
+	)
+	(segment
+		(start 155.2 34.75)
+		(end 158.95 31)
+		(width 0.355542)
+		(layer "F.Cu")
+		(net "Net-(FLT1-OUT)")
+		(uuid "dbb1824a-ac89-4cf8-a89f-71f1f2050a41")
 	)
 	(segment
 		(start 127.498696 28.225)
