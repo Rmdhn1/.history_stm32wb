@@ -6967,7 +6967,7 @@
 		)
 		(uuid "6eeeeeaa-d724-4cdb-a9e0-4670763c0bca")
 	)
-	(label "9"
+	(label "PA0"
 		(at 147.32 50.8 0)
 		(effects
 			(font
@@ -7016,6 +7016,16 @@
 			(justify left bottom)
 		)
 		(uuid "92deda74-7f84-4b97-836e-c2a9338c1a8c")
+	)
+	(label "PA0"
+		(at 147.32 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93332d56-f87a-440c-8ca5-90b3d098e7bb")
 	)
 	(label "SWD_DIO"
 		(at 149.86 83.82 0)
