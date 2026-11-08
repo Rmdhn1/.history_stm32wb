@@ -7017,7 +7017,7 @@
 		)
 		(uuid "8b2f0138-f6ce-4529-b118-6e09a0a58c21")
 	)
-	(label "PA1"
+	(label "PA6"
 		(at 147.32 66.04 0)
 		(effects
 			(font
@@ -7086,6 +7086,16 @@
 			(justify left bottom)
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
+	)
+	(label "PA1"
+		(at 148.59 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b8801e47-80fd-4ee8-9c16-8d579747c172")
 	)
 	(label "PA5"
 		(at 147.32 63.5 0)
