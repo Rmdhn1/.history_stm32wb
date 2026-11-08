@@ -5569,6 +5569,30 @@
 		)
 		(uuid "13731256-357a-4444-a230-bd552891093a")
 	)
+	(rectangle
+		(start 199.39 90.17)
+		(end 266.7 129.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "7439cbf8-3d6d-4c1f-a6e9-f70a9fcd9ae4")
+	)
+	(rectangle
+		(start 199.39 35.56)
+		(end 283.21 90.17)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c10e364d-fbac-4198-960a-9740761eb2b6")
+	)
 	(junction
 		(at 137.16 46.99)
 		(diameter 0)
