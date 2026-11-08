@@ -6927,6 +6927,16 @@
 		)
 		(uuid "30911f14-fd8f-4885-8ae4-6e87bc178f22")
 	)
+	(label "PB0"
+		(at 147.32 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3c493291-2f8c-4b36-8d88-d9790456afd3")
+	)
 	(label "USBD_N"
 		(at 212.09 71.12 0)
 		(effects
@@ -6976,6 +6986,16 @@
 			(justify left bottom)
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
+	)
+	(label "PB2"
+		(at 147.32 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "57f929c5-f616-4ae6-91f3-c14be40931d9")
 	)
 	(label "PA4"
 		(at 147.32 60.96 0)
@@ -7086,6 +7106,16 @@
 			(justify left bottom)
 		)
 		(uuid "93332d56-f87a-440c-8ca5-90b3d098e7bb")
+	)
+	(label "PB1"
+		(at 147.32 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93626bc1-a8d1-4c2c-b6f3-c57a34a2ee64")
 	)
 	(label "SWD_DIO"
 		(at 149.86 83.82 0)
