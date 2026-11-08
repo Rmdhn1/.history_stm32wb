@@ -6967,6 +6967,16 @@
 		)
 		(uuid "6eeeeeaa-d724-4cdb-a9e0-4670763c0bca")
 	)
+	(label "9"
+		(at 147.32 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6f895e76-9292-4e69-ab64-6691bc5aaf29")
+	)
 	(label "HSE IN"
 		(at 96.52 60.96 0)
 		(effects
