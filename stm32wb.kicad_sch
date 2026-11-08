@@ -6977,6 +6977,16 @@
 		)
 		(uuid "4daba00d-e6e7-4b62-b83f-6fc3029312de")
 	)
+	(label "PB5"
+		(at 147.32 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5049dd80-33fc-4680-944f-fbc8025f026a")
+	)
 	(label "SWD"
 		(at 149.86 101.6 0)
 		(effects
@@ -7146,6 +7156,16 @@
 			(justify left bottom)
 		)
 		(uuid "9dcf6172-4465-4b68-bd4c-9a5aa855a816")
+	)
+	(label "PN4"
+		(at 147.32 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b0eb1a84-69be-45ab-be65-748bce052e35")
 	)
 	(label "SWD"
 		(at 40.64 59.69 0)
