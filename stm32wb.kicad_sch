@@ -6977,16 +6977,6 @@
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
 	)
-	(label "PA1"
-		(at 147.32 78.74 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "55bfcd70-e390-474a-a006-e2bd49bca30a")
-	)
 	(label "PA4"
 		(at 147.32 60.96 0)
 		(effects
@@ -7136,6 +7126,16 @@
 			(justify left bottom)
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
+	)
+	(label "PA1"
+		(at 147.32 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b53d5552-a37a-4b40-9651-b2b1729ca328")
 	)
 	(label "PA5"
 		(at 147.32 63.5 0)
