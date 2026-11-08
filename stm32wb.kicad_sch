@@ -7127,7 +7127,7 @@
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
 	)
-	(label "PA1"
+	(label "PA15"
 		(at 147.32 88.9 0)
 		(effects
 			(font
