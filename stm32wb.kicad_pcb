@@ -12022,22 +12022,6 @@
 		(uuid "a62bf068-66a2-4446-987e-53199fbd83ce")
 	)
 	(segment
-		(start 101.64 31.75)
-		(end 104.5625 31.75)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/USBD_P")
-		(uuid "d75c4e1e-082a-4844-a555-7c29893adb7d")
-	)
-	(segment
-		(start 102.536205 30.25)
-		(end 102.32241 30.25)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/USBD_N")
-		(uuid "0dbc5606-a81a-46f5-9fe4-79e4cb8c945b")
-	)
-	(segment
 		(start 102.32241 31.25)
 		(end 101.64 31.25)
 		(width 0.2)
