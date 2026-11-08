@@ -6917,6 +6917,16 @@
 		)
 		(uuid "223bb71d-006d-49d9-9b33-0b5a9d3317be")
 	)
+	(label "PB8\\"
+		(at 147.32 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "28dfdb4c-a2bf-480a-aa6f-6e839cccf9e4")
+	)
 	(label "LSE OUT"
 		(at 92.71 96.52 0)
 		(effects
