@@ -6967,6 +6967,16 @@
 		)
 		(uuid "58335ecb-d3d4-4c0e-b199-78f64ed72409")
 	)
+	(label "PA1"
+		(at 147.32 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5d747b76-fd08-45c9-9f4f-fa453ff59fda")
+	)
 	(label "USB_N"
 		(at 214.63 90.17 0)
 		(effects
@@ -7086,16 +7096,6 @@
 			(justify left bottom)
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
-	)
-	(label "PA1"
-		(at 148.59 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b8801e47-80fd-4ee8-9c16-8d579747c172")
 	)
 	(label "PA5"
 		(at 147.32 63.5 0)
