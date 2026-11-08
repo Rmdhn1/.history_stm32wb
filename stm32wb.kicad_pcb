@@ -10394,7 +10394,7 @@
 			)
 		)
 		(property "Value" "Conn_01x12_Socket"
-			(at 0 15.715 180)
+			(at 3.410051 7.675 180)
 			(layer "F.Fab")
 			(uuid "d4482010-bf8a-4570-b16b-e62bf6095ff6")
 			(effects
