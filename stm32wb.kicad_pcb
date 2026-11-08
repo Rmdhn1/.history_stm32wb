@@ -12223,11 +12223,19 @@
 	)
 	(segment
 		(start 106.225 25.95)
-		(end 104.5 24.225)
+		(end 106.225 25)
 		(width 0.6)
 		(layer "In2.Cu")
 		(net "5V")
-		(uuid "70ac6132-0076-4183-9215-dd19ffad3f37")
+		(uuid "22add54f-8b66-4564-a66f-e905c1dab0bd")
+	)
+	(segment
+		(start 106.225 25)
+		(end 105.45 24.225)
+		(width 0.6)
+		(layer "In2.Cu")
+		(net "5V")
+		(uuid "6b51d5ff-b5e2-40b6-9ab8-0d58cee5dceb")
 	)
 	(segment
 		(start 106.225 24.525001)
@@ -12244,6 +12252,14 @@
 		(layer "In2.Cu")
 		(net "5V")
 		(uuid "a4564ac1-7a56-4656-a647-f79f1bff2c03")
+	)
+	(segment
+		(start 105.45 24.225)
+		(end 104.5 24.225)
+		(width 0.6)
+		(layer "In2.Cu")
+		(net "5V")
+		(uuid "d06df663-a335-4001-b076-855544b53851")
 	)
 	(segment
 		(start 106.225 27.025)
