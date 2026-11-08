@@ -6907,6 +6907,16 @@
 		)
 		(uuid "20327eb2-9026-438e-ae27-e2785bbf9313")
 	)
+	(label "PB7"
+		(at 147.32 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "223bb71d-006d-49d9-9b33-0b5a9d3317be")
+	)
 	(label "LSE OUT"
 		(at 92.71 96.52 0)
 		(effects
@@ -7227,7 +7237,7 @@
 		)
 		(uuid "e92531af-b63f-40e5-b79a-1b4f4e47fb66")
 	)
-	(label "PA1"
+	(label "PB6"
 		(at 147.32 109.22 0)
 		(effects
 			(font
