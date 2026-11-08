@@ -12038,14 +12038,6 @@
 		(uuid "0d2cdac7-8556-4e6e-886a-9db07021639a")
 	)
 	(segment
-		(start 105.076554 28.55)
-		(end 105.8625 28.55)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/USBD_N")
-		(uuid "185adb9e-8a6d-4652-bad1-3918d80e0445")
-	)
-	(segment
 		(start 102.32241 31.25)
 		(end 101.64 31.25)
 		(width 0.2)
@@ -12242,62 +12234,6 @@
 		(layer "F.Cu")
 		(net "/USBD_N")
 		(uuid "dae6a4e1-a6fe-42a5-88f9-710485e6dfb2")
-	)
-	(generated
-		(uuid "bb43b1ec-b911-4537-b2ea-0825809e7fc8")
-		(type tuning_pattern)
-		(name "Tuning Pattern")
-		(layer "F.Cu")
-		(base_line
-			(pts
-				(xy 102.909959 29.876246) (xy 104.236205 28.55) (xy 105.076554 28.55)
-			)
-		)
-		(base_line_coupled
-			(pts
-				(xy 101.64 30.75)
-			)
-		)
-		(corner_radius_percent 80)
-		(end
-			(xy 105.076554 28.55)
-		)
-		(initial_side "right")
-		(is_time_domain no)
-		(last_diff_pair_gap 0.18)
-		(last_netname "/USBD_N")
-		(last_status "tuned")
-		(last_track_width 0.2)
-		(last_tuning_length -5.8e-05)
-		(max_amplitude 1)
-		(min_amplitude 0.2)
-		(min_spacing 0.6)
-		(origin
-			(xy 102.909959 29.876246)
-		)
-		(override_custom_rules no)
-		(rounded yes)
-		(single_sided no)
-		(target_delay 1000000)
-		(target_delay_max 1000000)
-		(target_delay_min 0)
-		(target_length 1000000)
-		(target_length_max 1000000)
-		(target_length_min 0)
-		(target_skew 0)
-		(target_skew_max 0.1)
-		(target_skew_min -0.1)
-		(tuning_mode "diff_pair_skew")
-		(members "0d2cdac7-8556-4e6e-886a-9db07021639a" "171e8095-8f23-45de-95a2-fad7db77839b"
-			"285ae4f6-c8a0-4471-9f57-0d63687efc2a" "2c310653-2f97-4880-937f-9e1d8354b100"
-			"4adbe7f0-ae21-4c1e-953d-3bad676b672c" "61ddaeb3-d5f8-4266-9c2f-e85775306edf"
-			"6b611e5d-3abf-4836-b949-9a7cce805859" "7ffc8710-ff4d-4263-9e31-d66fda4c9e7e"
-			"a5e82916-68db-4140-a893-556ff23e89f6" "ac11b418-468d-45fc-b7e8-b800c55c6048"
-			"bc95023d-546f-4da0-8299-e28a106cec21" "bfaab760-c8e5-4251-b7f5-30fb9fca0c6c"
-			"c70c165d-aa38-4538-b992-67e124d1f012" "d1172b02-a259-4315-8d44-bc48137892a2"
-			"d15590e0-bad9-4d4b-921c-759ba2edcaee" "dae6a4e1-a6fe-42a5-88f9-710485e6dfb2"
-			"e82e9a6a-bdac-4234-9dad-b636c71dcedf" "fb917c86-3c5a-4800-bdc7-98ac7c9a6629"
-		)
 	)
 	(generated
 		(uuid "4f470047-258e-436c-bfd8-9a120dd4e192")
