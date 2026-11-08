@@ -12062,12 +12062,20 @@
 		(uuid "414d09d5-4160-471d-a384-1e6c8c775623")
 	)
 	(segment
-		(start 105.45 28.55)
-		(end 105 29)
+		(start 104.236205 28.55)
+		(end 102.536205 30.25)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "/USBD_N")
-		(uuid "9db96b8a-b5c4-489e-bae8-1fe5a26e7d94")
+		(uuid "4e06d975-28eb-4f38-9538-0b3cf513d5d6")
+	)
+	(segment
+		(start 105.8625 28.55)
+		(end 104.236205 28.55)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/USBD_N")
+		(uuid "4fc0bd61-79f8-43df-bccc-02350b3ce76c")
 	)
 	(segment
 		(start 102.59 30.51759)
@@ -12076,14 +12084,6 @@
 		(layer "F.Cu")
 		(net "/USBD_N")
 		(uuid "b28707ba-af77-4262-8f5b-354fbf9cebc2")
-	)
-	(segment
-		(start 105.8625 28.55)
-		(end 105.45 28.55)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/USBD_N")
-		(uuid "b7ca6510-8c7f-4481-929a-b7a382207cb9")
 	)
 	(segment
 		(start 102.32241 30.25)
