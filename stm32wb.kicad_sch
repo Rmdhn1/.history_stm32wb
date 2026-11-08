@@ -7007,6 +7007,16 @@
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
 	)
+	(label "USBD_P"
+		(at 209.55 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c696ef5c-ae47-42b4-9006-9c4b3f5b3d9c")
+	)
 	(label "SWD_CLK"
 		(at 40.64 54.61 0)
 		(effects
