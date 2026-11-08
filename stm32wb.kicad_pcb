@@ -1750,7 +1750,7 @@
 		(at 148.4154 33.910051)
 		(tags "DLF162500LT-5028A1 ")
 		(property "Reference" "FLT1"
-			(at 0 0 0)
+			(at -3.1654 0.839949 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "bd60926c-6d81-4c44-b94f-8057a69a614e")
@@ -2080,7 +2080,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -3.1654 0.839949 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "d17eae1b-f080-4ef5-bb64-99b29615eeae")
