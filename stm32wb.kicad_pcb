@@ -2155,7 +2155,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "561408b0-265f-4f94-896a-c38b3c49f663")
-		(at 140.925 27.5 -90)
+		(at 140.925 27.725 -90)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C1"
 			(at 0 -1.43 90)
@@ -6197,7 +6197,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "b3520830-ea82-4603-b46a-5b7397304d66")
-		(at 143.15 29.5 180)
+		(at 143.15 30.5 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C10"
 			(at 0 -1.43 0)
@@ -10750,7 +10750,7 @@
 	(footprint "PCM_SparkFun-Capacitor:C_0603_1608Metric_Polar"
 		(layer "F.Cu")
 		(uuid "fa38d571-7d5f-438c-8080-c7094a71943a")
-		(at 143.15 31.52 180)
+		(at 143.15 32.52 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C8"
 			(at 0 -1.43 0)
@@ -11806,44 +11806,28 @@
 		(uuid "dd6f1e62-0db5-485e-991a-7ec7cb2d5a02")
 	)
 	(segment
-		(start 148.255 27.387157)
-		(end 147.392157 28.25)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/SWD_DIO")
-		(uuid "0c43643f-3f75-4d28-8bed-3ea13a9ab333")
-	)
-	(segment
-		(start 147.392157 28.25)
-		(end 142.173696 28.25)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/SWD_DIO")
-		(uuid "271cd4a8-bcba-43be-8c27-460ff8ebc609")
-	)
-	(segment
 		(start 148.255 26.680051)
 		(end 148.255 27.387157)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "/SWD_DIO")
-		(uuid "3e2aeacd-3ace-4b5d-a3e4-41adc8a7eee9")
+		(uuid "2f2bee8e-3a4c-4e74-8c5a-8c5774ed3978")
 	)
 	(segment
-		(start 142.173696 28.25)
-		(end 141.036469 29.387227)
+		(start 147.392157 28.25)
+		(end 143.25 28.25)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "/SWD_DIO")
-		(uuid "9aa154c0-8079-41bd-9705-fb00f1e12fd8")
+		(uuid "3fdcf9d2-6127-44ab-87a1-dbe099b32ffe")
 	)
 	(segment
-		(start 141.036469 29.387227)
+		(start 142.112773 29.387227)
 		(end 139.512646 29.387227)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "/SWD_DIO")
-		(uuid "b8020dfd-2f9c-4376-853b-c1a831280982")
+		(uuid "51cb2ae9-1969-4f19-b338-610c51e10f7c")
 	)
 	(segment
 		(start 139.512646 29.387227)
@@ -11851,7 +11835,23 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net "/SWD_DIO")
-		(uuid "e756cf1a-fbb7-48f7-8894-6274c049bcaf")
+		(uuid "707f8876-2d2b-435d-8b7c-e685363d1885")
+	)
+	(segment
+		(start 143.25 28.25)
+		(end 142.112773 29.387227)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/SWD_DIO")
+		(uuid "b5de5339-50e1-4642-bbfd-43fbc6821ee2")
+	)
+	(segment
+		(start 148.255 27.387157)
+		(end 147.392157 28.25)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/SWD_DIO")
+		(uuid "fd0678ee-b3f3-4198-bdf0-fa63d1b6ac47")
 	)
 	(via micro
 		(at 137.778903 28.292544)
