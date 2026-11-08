@@ -6907,6 +6907,16 @@
 		)
 		(uuid "0cc1ad4a-a385-4025-b63e-3ca89f8d913d")
 	)
+	(label "PB8"
+		(at 140.97 157.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1bd76043-e6ea-46d1-b178-af554279e4b3")
+	)
 	(label "USB_P"
 		(at 207.01 90.17 180)
 		(effects
@@ -6956,6 +6966,16 @@
 			(justify right bottom)
 		)
 		(uuid "2a5272ff-11b3-495b-95f1-99146bd91b9e")
+	)
+	(label "PB9"
+		(at 140.97 154.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ab26052-d802-49cb-8502-aafe0ca65885")
 	)
 	(label "LSE OUT"
 		(at 92.71 96.52 0)
