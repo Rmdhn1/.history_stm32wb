@@ -13843,6 +13843,14 @@
 		(uuid "efdcf26d-98a8-470f-b3a9-25a19c003c71")
 	)
 	(segment
+		(start 135.527999 28.920101)
+		(end 135.525 28.920101)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "/USB_P")
+		(uuid "5c96adac-e51f-45d6-bfbc-352a774e9765")
+	)
+	(segment
 		(start 139.900223 30.413864)
 		(end 139.913864 30.413864)
 		(width 0.178162)
