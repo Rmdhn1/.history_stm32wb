@@ -6957,7 +6957,7 @@
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
 	)
-	(label "PA1"
+	(label "PA4"
 		(at 147.32 60.96 0)
 		(effects
 			(font
@@ -7076,6 +7076,16 @@
 			(justify left bottom)
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
+	)
+	(label "PA1"
+		(at 147.32 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ceff2262-5e0e-405f-a899-3398e587ecd0")
 	)
 	(label "SWD_NRST"
 		(at 40.64 52.07 0)
