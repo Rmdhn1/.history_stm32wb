@@ -7247,6 +7247,16 @@
 		)
 		(uuid "93626bc1-a8d1-4c2c-b6f3-c57a34a2ee64")
 	)
+	(label "PA10"
+		(at 110.49 166.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9733d549-756c-4d5b-a981-d7da6bbaf061")
+	)
 	(label "SWD_DIO"
 		(at 149.86 83.82 0)
 		(effects
