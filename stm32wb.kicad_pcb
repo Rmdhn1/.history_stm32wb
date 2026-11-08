@@ -12094,14 +12094,6 @@
 		(uuid "7ffc8710-ff4d-4263-9e31-d66fda4c9e7e")
 	)
 	(segment
-		(start 102.536205 30.25)
-		(end 102.909959 29.876246)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/USBD_N")
-		(uuid "976c9c31-10d2-4fe0-8539-33fa2a4eef8e")
-	)
-	(segment
 		(start 103.907201 30.194666)
 		(end 103.992053 30.109813)
 		(width 0.2)
