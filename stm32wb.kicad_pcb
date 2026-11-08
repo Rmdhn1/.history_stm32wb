@@ -13361,6 +13361,26 @@
 		(net "/PB2")
 		(uuid "e0971a57-9959-4d61-b137-155949d2dda6")
 	)
+	(zone
+		(net "GND")
+		(layer "In1.Cu")
+		(uuid "d88a6884-e5c9-4cf0-a852-8dd4c7b1e49c")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 95.5 20) (xy 95.5 41.5) (xy 173.5 41.5) (xy 173.5 20)
+			)
+		)
+	)
 	(generated
 		(uuid "23dcf1ae-25ca-45e8-bbae-4e978c8152bc")
 		(type tuning_pattern)
