@@ -6947,6 +6947,16 @@
 		)
 		(uuid "4ae33e49-5f98-4ba7-94a4-5f4e095d7138")
 	)
+	(label "PA8"
+		(at 147.32 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4daba00d-e6e7-4b62-b83f-6fc3029312de")
+	)
 	(label "SWD"
 		(at 149.86 101.6 0)
 		(effects
@@ -6967,7 +6977,7 @@
 		)
 		(uuid "58335ecb-d3d4-4c0e-b199-78f64ed72409")
 	)
-	(label "PA1"
+	(label "PA7"
 		(at 147.32 68.58 0)
 		(effects
 			(font
