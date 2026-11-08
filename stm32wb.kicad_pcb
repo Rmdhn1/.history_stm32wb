@@ -1797,213 +1797,18 @@
 		(path "/ae5110e7-9e65-4ab1-8ab7-c8ae4e18d722")
 		(sheetname "/")
 		(sheetfile "stm32wb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "4" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.0795 -0.6731)
-			(end -0.6096 -0.6731)
+		(fp_rect
+			(start -1.052563 -0.756626)
+			(end 1.052564 0.745342)
 			(stroke
-				(width 0.1524)
-				(type solid)
+				(width 0.05)
+				(type default)
 			)
+			(fill no)
 			(layer "F.CrtYd")
-			(uuid "d40b05b4-650a-4862-ad0a-43aabc302a4f")
-		)
-		(fp_line
-			(start -1.0795 -0.6096)
-			(end -1.0795 -0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "85e2b191-4ecd-41ff-ab03-661547de472c")
-		)
-		(fp_line
-			(start -1.0795 -0.6096)
-			(end -1.0795 -0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "56ba373e-8dfc-4c6c-b25e-800d12881ef9")
-		)
-		(fp_line
-			(start -1.0795 0.6096)
-			(end -1.0795 -0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5a7062d5-e26d-456f-b6fc-263220b27f5c")
-		)
-		(fp_line
-			(start -1.0795 0.6096)
-			(end -1.0795 0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b5aeca9b-aebb-4465-ad8f-81d6d91ca780")
-		)
-		(fp_line
-			(start -1.0795 0.6731)
-			(end -1.0795 0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b7a72ff9-b750-4877-946c-5d4a375032da")
-		)
-		(fp_line
-			(start -0.6096 -0.6731)
-			(end -0.6096 -0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c24a3dd1-0dc2-4cd3-bc96-b9fd373cb428")
-		)
-		(fp_line
-			(start -0.6096 -0.6731)
-			(end 0.6096 -0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5cca9f2a-dc9b-4a31-b728-5ceb34455800")
-		)
-		(fp_line
-			(start -0.6096 0.6731)
-			(end -1.0795 0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "8465700f-0b64-4a75-8bf8-88853500297b")
-		)
-		(fp_line
-			(start -0.6096 0.6731)
-			(end -0.6096 0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "dbf92cf3-c794-41e1-8bca-8e3e8d970af1")
-		)
-		(fp_line
-			(start 0.6096 -0.6731)
-			(end 0.6096 -0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "03e17c2b-e68d-4a6c-be85-345a8319f88a")
-		)
-		(fp_line
-			(start 0.6096 -0.6731)
-			(end 1.0795 -0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "90e41501-5057-408f-8c6f-923038f57bdd")
-		)
-		(fp_line
-			(start 0.6096 0.6731)
-			(end -0.6096 0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "85c5d6fb-cb8d-4c18-aa3e-1fc7b8a2e98e")
-		)
-		(fp_line
-			(start 0.6096 0.6731)
-			(end 0.6096 0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b0915b89-764c-422a-900c-c885c1bb094c")
-		)
-		(fp_line
-			(start 1.0795 -0.6731)
-			(end 1.0795 -0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "a9fed44f-82ef-4491-ae79-47a30a783ab0")
-		)
-		(fp_line
-			(start 1.0795 -0.6096)
-			(end 1.0795 -0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "269354df-8fc3-41f6-97ec-77873f9cee9f")
-		)
-		(fp_line
-			(start 1.0795 -0.6096)
-			(end 1.0795 0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "863f7c0f-7117-4c01-8695-d19666bcd7ee")
-		)
-		(fp_line
-			(start 1.0795 0.6096)
-			(end 1.0795 0.6096)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "800d7805-e12f-40c1-9922-61a5d6183e1e")
-		)
-		(fp_line
-			(start 1.0795 0.6096)
-			(end 1.0795 0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "41f64aeb-cd92-4e77-a0dc-1d24f2ea2ab1")
-		)
-		(fp_line
-			(start 1.0795 0.6731)
-			(end 0.6096 0.6731)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4ec6a152-2f07-4f3c-a8f3-f7d559de6622")
+			(uuid "3068690e-c00e-4f04-9623-5aa3937385fa")
 		)
 		(fp_line
 			(start -0.8255 -0.4191)
@@ -2122,6 +1927,14 @@
 			(pintype "input")
 			(uuid "563b0a1e-9b58-44f5-a939-da554a511ecc")
 		)
+		(pad "1" smd rect
+			(at -0.6096 0)
+			(size 0.2794 0.7112)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(pinfunction "IN_1")
+			(pintype "input")
+			(uuid "cfc0409c-8176-46f7-b3f5-6e6784a9cfcb")
+		)
 		(pad "2" smd rect
 			(at 0 -0.2286 90)
 			(size 0.254 0.4572)
@@ -2130,6 +1943,22 @@
 			(pinfunction "GND_2")
 			(pintype "power_in")
 			(uuid "09e2a52b-b03c-42a6-9252-dde1602bfd6b")
+		)
+		(pad "2" smd rect
+			(at 0 -0.2286 90)
+			(size 0.254 0.4572)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(pinfunction "GND_2")
+			(pintype "power_in")
+			(uuid "b0b8bfd3-0fb4-4401-904f-fe3ba9ebe626")
+		)
+		(pad "3" smd rect
+			(at 0.6096 0)
+			(size 0.2794 0.7112)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(pinfunction "OUT_3")
+			(pintype "output")
+			(uuid "145a9999-3b54-418e-b13b-81479e0ec897")
 		)
 		(pad "3" smd rect
 			(at 0.6096 0)
