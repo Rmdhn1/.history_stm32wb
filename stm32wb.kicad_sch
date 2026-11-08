@@ -7407,6 +7407,16 @@
 		)
 		(uuid "e0e82c69-5e60-4470-a91e-19c1012ff3fc")
 	)
+	(label "PA15"
+		(at 140.97 170.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e140ff80-89e0-4458-af7f-8b698244726e")
+	)
 	(label "PA7"
 		(at 110.49 151.13 180)
 		(effects
