@@ -11533,6 +11533,14 @@
 		(net "/LSE OUT")
 		(uuid "b5772a65-69f6-4784-b655-523c81cb5510")
 	)
+	(segment
+		(start 148.4154 34.138651)
+		(end 148.4154 33.681451)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "047d432a-7640-450d-a091-f05c5df687fd")
+	)
 	(via
 		(at 126.95 29)
 		(size 0.6)
@@ -11636,6 +11644,22 @@
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "6ad10d47-379f-4eb8-89cb-61f5bff87ef3")
+	)
+	(via micro
+		(at 148.4154 34.138651)
+		(size 0.3)
+		(drill 0.1)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "79618a9b-e481-4a84-bf6f-1b4b97ec0dcc")
+	)
+	(via micro
+		(at 148.4154 33.681451)
+		(size 0.3)
+		(drill 0.1)
+		(layers "F.Cu" "B.Cu")
+		(net "GND")
+		(uuid "88ddcc18-1aa3-4ee6-b727-bc3eeb178c4a")
 	)
 	(via
 		(at 129.725 36.775)
