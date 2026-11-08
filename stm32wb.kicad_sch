@@ -6927,7 +6927,7 @@
 		)
 		(uuid "30911f14-fd8f-4885-8ae4-6e87bc178f22")
 	)
-	(label "USBD_P"
+	(label "USBD_N"
 		(at 212.09 71.12 0)
 		(effects
 			(font
