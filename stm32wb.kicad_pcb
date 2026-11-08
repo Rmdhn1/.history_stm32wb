@@ -11998,14 +11998,6 @@
 		(uuid "201366cc-1f05-49dd-a40b-00d79cbcf09b")
 	)
 	(segment
-		(start 102.231959 30.639081)
-		(end 101.750919 30.639081)
-		(width 0.178162)
-		(layer "F.Cu")
-		(net "/USBD_P")
-		(uuid "2eb8d6ce-05df-4de0-968e-73980279480b")
-	)
-	(segment
 		(start 100.69 31.48241)
 		(end 100.95759 31.75)
 		(width 0.2)
