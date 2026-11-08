@@ -7257,7 +7257,7 @@
 			)
 		)
 		(property "Value" "STM32WB55CEUx"
-			(at 0.707107 5.537107 135)
+			(at 0.707107 5.537107 315)
 			(layer "F.Fab")
 			(uuid "2d1a6b2b-4ba9-49a0-9489-37528a070faa")
 			(effects
@@ -7268,7 +7268,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf"
-			(at 0 0 135)
+			(at 0 0 315)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9eab6b2a-267e-48f0-a432-27f945f7c4ad")
@@ -7279,7 +7279,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48"
-			(at 0 0 135)
+			(at 0 0 315)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "573aea5d-ea15-4ef2-ab78-6044c6fcbd51")
@@ -7290,7 +7290,7 @@
 			)
 		)
 		(property "KiLib_Generator" "package/no_lead"
-			(at 0 0 135)
+			(at 0 0 315)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a0f3f8ae-aa94-4f4e-a270-0a216becdd56")
@@ -7622,7 +7622,7 @@
 			(uuid "7334f509-65e1-44c9-89c9-b069b3e623af")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 135)
+			(at 0 0 315)
 			(layer "F.Fab")
 			(uuid "8026d939-fbe6-4b85-b329-0f07a9d4739d")
 			(effects
