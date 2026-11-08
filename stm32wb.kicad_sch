@@ -7157,7 +7157,7 @@
 		)
 		(uuid "9dcf6172-4465-4b68-bd4c-9a5aa855a816")
 	)
-	(label "PN4"
+	(label "PB4"
 		(at 147.32 104.14 0)
 		(effects
 			(font
@@ -7226,6 +7226,16 @@
 			(justify left bottom)
 		)
 		(uuid "e92531af-b63f-40e5-b79a-1b4f4e47fb66")
+	)
+	(label "PA1"
+		(at 147.32 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9417c3a-2ac1-4b23-84eb-56dfc91dce4f")
 	)
 	(symbol
 		(lib_id "power:GND")
