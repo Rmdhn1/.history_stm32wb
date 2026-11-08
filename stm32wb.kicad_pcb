@@ -10236,7 +10236,7 @@
 			(uuid "1fe5fc4e-01da-4b5f-916a-955aec4e2935")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A.step"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB-C-SMD_HC-TYPE-C-16P-01A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
