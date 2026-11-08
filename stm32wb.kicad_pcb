@@ -1927,14 +1927,6 @@
 			(pintype "input")
 			(uuid "563b0a1e-9b58-44f5-a939-da554a511ecc")
 		)
-		(pad "1" smd rect
-			(at -0.6096 0)
-			(size 0.2794 0.7112)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(pinfunction "IN_1")
-			(pintype "input")
-			(uuid "cfc0409c-8176-46f7-b3f5-6e6784a9cfcb")
-		)
 		(pad "2" smd rect
 			(at 0 -0.2286 90)
 			(size 0.254 0.4572)
@@ -1943,22 +1935,6 @@
 			(pinfunction "GND_2")
 			(pintype "power_in")
 			(uuid "09e2a52b-b03c-42a6-9252-dde1602bfd6b")
-		)
-		(pad "2" smd rect
-			(at 0 -0.2286 90)
-			(size 0.254 0.4572)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(pinfunction "GND_2")
-			(pintype "power_in")
-			(uuid "b0b8bfd3-0fb4-4401-904f-fe3ba9ebe626")
-		)
-		(pad "3" smd rect
-			(at 0.6096 0)
-			(size 0.2794 0.7112)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(pinfunction "OUT_3")
-			(pintype "output")
-			(uuid "145a9999-3b54-418e-b13b-81479e0ec897")
 		)
 		(pad "3" smd rect
 			(at 0.6096 0)
