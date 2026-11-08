@@ -12593,7 +12593,7 @@
 	(segment
 		(start 155.2 34.75)
 		(end 158.95 31)
-		(width 0.2)
+		(width 0.355542)
 		(layer "F.Cu")
 		(net "Net-(FLT1-OUT)")
 		(uuid "c1794a16-a2bd-4b3c-bd21-290149ffbbf6")
