@@ -5385,7 +5385,7 @@
 		(property "Reference" "Y2"
 			(at 0 -2.575 180)
 			(layer "F.SilkS")
-			(uuid "36767f13-6139-47ae-88a6-614441f68993")
+			(uuid "81e9e761-6810-471f-879b-c6927f5a709f")
 			(effects
 				(font
 					(size 1 1)
@@ -5396,7 +5396,7 @@
 		(property "Value" "32.768 kHz"
 			(at 0 2.5 90)
 			(layer "F.Fab")
-			(uuid "7aca556a-03a0-4fb9-b725-abd728203720")
+			(uuid "54fbd0b6-0c2f-4ed1-aa34-5763623c8c6d")
 			(effects
 				(font
 					(size 1 1)
@@ -5409,7 +5409,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "686aed51-e759-4751-b461-1e3286fa0a21")
+			(uuid "532a8185-b3ad-4330-9820-878a601b9f98")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5422,7 +5422,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fd821f19-dedd-41db-9bc3-9a06c0e6a18d")
+			(uuid "7433d0ca-7d57-498a-9646-cebfdd0d2d30")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12770,38 +12770,6 @@
 		(layer "B.Cu")
 		(net "/USB_P")
 		(uuid "efdcf26d-98a8-470f-b3a9-25a19c003c71")
-	)
-	(segment
-		(start 135.527999 28.920101)
-		(end 135.525 28.920101)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "/USB_P")
-		(uuid "5c96adac-e51f-45d6-bfbc-352a774e9765")
-	)
-	(segment
-		(start 136.510471 31.885471)
-		(end 136.513471 31.885471)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "/USB_P")
-		(uuid "68e869ad-e09b-40a4-8c17-1f5ec76815ea")
-	)
-	(segment
-		(start 133.545101 30.9)
-		(end 133.545101 30.902323)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "/USB_P")
-		(uuid "a27bd8ab-0500-451e-9fe9-f25bc993e538")
-	)
-	(segment
-		(start 134.533889 31.891111)
-		(end 134.539211 31.891111)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "/USB_P")
-		(uuid "f3ab1be8-1b28-4421-81a2-e980f00d8ac4")
 	)
 	(segment
 		(start 139.900223 30.413864)
