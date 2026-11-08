@@ -6927,6 +6927,16 @@
 		)
 		(uuid "30911f14-fd8f-4885-8ae4-6e87bc178f22")
 	)
+	(label "USBD_P"
+		(at 212.09 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3e6cc3e8-5e1d-46ec-b7d8-e0630506671a")
+	)
 	(label "SWD_NRST"
 		(at 100.33 50.8 180)
 		(effects
@@ -6947,16 +6957,6 @@
 		)
 		(uuid "54125880-9ec2-4269-a2f0-f1748265156c")
 	)
-	(label "USBD_P"
-		(at 212.09 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5a131508-d759-4202-9a13-dffa09a6aff9")
-	)
 	(label "USB_N"
 		(at 214.63 90.17 0)
 		(effects
@@ -6976,6 +6976,16 @@
 			(justify left bottom)
 		)
 		(uuid "795759fa-0faf-4b6b-8230-afa38ceb14e1")
+	)
+	(label "USBD_P"
+		(at 209.55 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "83974864-6fde-4fa2-82a3-2d016b79d2b6")
 	)
 	(label "HSE OUT"
 		(at 96.52 63.5 0)
@@ -7016,16 +7026,6 @@
 			(justify left bottom)
 		)
 		(uuid "b1b13078-f7eb-487c-870c-b00458772519")
-	)
-	(label "USBD_P"
-		(at 209.55 71.12 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c696ef5c-ae47-42b4-9006-9c4b3f5b3d9c")
 	)
 	(label "SWD_CLK"
 		(at 40.64 54.61 0)
